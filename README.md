@@ -14,3 +14,6 @@ Basically copied from [reactjs/core-notes](https://github.com/reactjs/core-notes
 
 ## Notes
 
+#### July
+
+* [July 31](https://github.com/babel/notes/blob/master/2016-07/july-31.md) ([discuss](https://github.com/babel/notes/pull/1))
