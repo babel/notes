@@ -16,11 +16,11 @@
 * [Jesse](https://twitter.com/mccjm)
 * [Daniel](https://twitter.com/tschinderdaniel)
 
-### Moving from [Phabricator](phabricator.babeljs.io) back to Github issues ([`repo`](https://github.com/babel/phabricator-to-github))
+### Moving from [Phabricator](https://phabricator.babeljs.io) back to Github issues ([`repo`](https://github.com/babel/phabricator-to-github))
 
 > https://twitter.com/left_pad/status/747624971627806720
 
-Back then, Sebastian was [dealing with](medium.com/@sebmck/2015-in-review-51ac7035e272) the issues mostly by himself before other people joined in to help. Like he mentions, it is easy to feel pressured, burned out, and discouraged by some of the negativity in the community.
+Back then, Sebastian was [dealing with](https://medium.com/@sebmck/2015-in-review-51ac7035e272) the issues mostly by himself before other people joined in to help. Like he mentions, it is easy to feel pressured, burned out, and discouraged by some of the negativity in the community.
 
 At the time, github issues wasn't helping much since a lot of the issues were duplicates (after a regression), users asking for help instead of actual bugs, issues with no information, etc. It was easy to look for other services that gave maintainers more say to help solve this issue. 
 
@@ -81,7 +81,7 @@ Given async functions and trailing function commas are [stage 4 now](https://git
 
 #### Future of Babel's release process and its ecosystem
 
-[Babel 6](http://babeljs.io/blog/2015/10/29/6.0.0) was released almost a year ago. In v6, Babel was separated into many packages while moving those packages into a ["monorepo"](https://github.com/babel/babel/blob/master/doc/design/monorepo.md). The way we currently publish package is using "fixed" global version so that when we make a release, we update all changed packages to that new version and thus packages aren't completely independent (this is explained more in the [lerna readme](https://github.com/lerna/lerna#fixedlocked-mode-default)).
+[Babel 6](https://babeljs.io/blog/2015/10/29/6.0.0) was released almost a year ago. In v6, Babel was separated into many packages while moving those packages into a ["monorepo"](https://github.com/babel/babel/blob/master/doc/design/monorepo.md). The way we currently publish package is using "fixed" global version so that when we make a release, we update all changed packages to that new version and thus packages aren't completely independent (this is explained more in the [lerna readme](https://github.com/lerna/lerna#fixedlocked-mode-default)).
 
 We would like to switch to a versioning mode such that each package is versioned independently of each other. However, there are some complications to this due to the way babel is setup (interdependencies) and other implications that effect will have on the babel ecosystem of presets/plugins. It makes publishing more difficult until we setup some better tooling in lerna to give suggestions of what version to do for each updated package. It also complicates new user's setups regarding which version of which package they should use, and how plugin/preset authors can update to the latest dependencies.
 
@@ -121,7 +121,7 @@ What we're doing now:
 - Discussing development on Slack
 - These discussion notes
 - Switching back to github issues
-- Trying to follow other repos (It would be cool to watch a repo/issues only for certain keywords)
+- Trying to follow other repos (it would be cool to watch a repo/issues only for certain keywords)
 - Other efforts (https://github.com/thejameskyle/babel-handbook)
   - Talks: https://www.youtube.com/playlist?list=PLUjGYjn761TW_j4HlBcq_qnJoaSMTlJOH 
 
@@ -138,4 +138,4 @@ Since we're still working through some things, we just want to say that it's in 
 
 ------------
 
-Please feel free to discuss these notes in the [corresponding pull request](https://github.com/babel/notes/pull/1) or join in on our discussions in [#development](https://babeljs.slack.com/messages/development). (Sign up at [slack.babeljs.io](http://slack.babeljs.io/)).
+Please feel free to discuss these notes in the [corresponding pull request](https://github.com/babel/notes/pull/1) or join in on our discussions in [#development](https://babeljs.slack.com/messages/development). (Sign up at [slack.babeljs.io](https://slack.babeljs.io/)).
