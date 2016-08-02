@@ -17,3 +17,7 @@ Basically copied from [reactjs/core-notes](https://github.com/reactjs/core-notes
 #### July
 
 * [July 31](https://github.com/babel/notes/blob/master/2016-07/july-31.md) ([discuss](https://github.com/babel/notes/pull/1))
+
+#### August
+
+* [August 1](https://github.com/babel/notes/blob/master/2016-08/august-01.md) ([discuss](https://github.com/babel/notes/pull/3))
