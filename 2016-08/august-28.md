@@ -23,8 +23,10 @@ Released in beta as [babili](https://github.com/babel/babili). You can try it ou
 - [ ] `babel-preset-env` (autoprefixer for babel) [PR #3476](https://github.com/babel/babel/pull/3476)
 
 ### Other ideas
-- [ ] add to `babel-polyfill` to support importing specific year's polyfills: `import 'babel-polyfill/es2015'
+- [ ] add to `babel-polyfill` to support importing specific year's polyfills: `import 'babel-polyfill/es2015'`
 - [ ] add an option to preset `es2015` to remove/disable regenerator.
-- ?
+- [ ] ?
+
+---
 
 Please feel free to discuss these notes in the [corresponding pull request](https://github.com/babel/notes/pull/1) or join in on our discussions in [#development](https://babeljs.slack.com/messages/development). (Sign up at [slack.babeljs.io](https://slack.babeljs.io/)).
