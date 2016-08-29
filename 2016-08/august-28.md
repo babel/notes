@@ -18,6 +18,8 @@ This landed in [v6.14.0](http://babeljs.io/blog/2016/08/24/6.14.0)
 
 Released in beta as [babili](https://github.com/babel/babili). You can try it out in the [REPL](http://babeljs.io/repl/#?babili=true&evaluate=false&lineWrap=false&presets=react&experimental=false&loose=false&spec=false&code=class%20A%20%7B%0A%20%20%0A%7D%0A%0AA()%3B&playground=true).
 
+Writing a post [here](https://github.com/babel/babel.github.io/pull/898)
+
 ### Not Finished Yet
 - [ ] Codemods ([PR #3561](https://github.com/babel/babel/pull/3561))
 - [ ] `babel-preset-env` (autoprefixer for babel) [PR #3476](https://github.com/babel/babel/pull/3476)
