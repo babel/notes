@@ -2,7 +2,9 @@
 
 Just adding updates since the last notes.
 
-- [x] Moving from [Phabricator](https://phabricator.babeljs.io) back to Github issues ([`repo`](https://github.com/babel/phabricator-to-github))
+- [] Moving from [Phabricator](https://phabricator.babeljs.io) back to Github issues ([`repo`](https://github.com/babel/phabricator-to-github))
+
+Almost ready!
 
 Again, [@danez](https://github.com/danez) is doing an amazing job working on this (so far a solo effort). We hope of this to happen soon.
 
