@@ -2,7 +2,7 @@
 
 Just adding updates since the last notes.
 
-- [] Moving from [Phabricator](https://phabricator.babeljs.io) back to Github issues ([`repo`](https://github.com/babel/phabricator-to-github))
+- [ ] Moving from [Phabricator](https://phabricator.babeljs.io) back to Github issues ([`repo`](https://github.com/babel/phabricator-to-github))
 
 Almost ready!
 
