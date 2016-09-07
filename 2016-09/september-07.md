@@ -1,6 +1,6 @@
 ## August 28 ([discuss](https://github.com/babel/notes/pull/5))
 
-### [x] Moving back to [Github Issues](https://github.com/babel/babel/issues)!!!
+### Moving back to [Github Issues](https://github.com/babel/babel/issues)!!!
 
 [@danez](https://github.com/danez) basically did all the work for this so a HUGE shoutout to him.
 
@@ -8,10 +8,13 @@ It's probably not a big surprise that it's happening but for those who don't kno
 
 A lot of people still report issues on our [website repo](https://github.com/babel/babel.github.io), in commits, or report instead using the `@babeljs` twitter. Others have told us that they were too intimidated to report on a different site or weren't going to login/make an account. Not seeing the issue tab on the project prevented a lot of newcomers from contributing as well.
 
-At the same time, we have very few consistent contributors and like most projects few maintainers.
+At the same time, we have very few consistent contributors and like most projects a few maintainers.
 
-- [x] We released the [Babili post](http://babeljs.io/blog/2016/08/30/babili)
-- [x] Released a 0.0.1 of [`babel-preset-env`](https://github.com/babel/babel-preset-env) (autoprefixer for babel)
+If were going to grow our contributors, we should at least lower the barriers and try to work within Github.
+
+### [Babili post](http://babeljs.io/blog/2016/08/30/babili)
+
+### Released a 0.0.1 of [`babel-preset-env`](https://github.com/babel/babel-preset-env) (autoprefixer for babel)
 
 ```js
 $ npm install --save-dev babel-preset-env
