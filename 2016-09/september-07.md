@@ -12,6 +12,8 @@ At the same time, we have very few consistent contributors and like most project
 
 If were going to grow our contributors, we should at least lower the barriers and try to work within Github.
 
+I'l probably make an issue real soon to discuss how we are going to manage issues and grow the project.
+
 ### [Babili post](http://babeljs.io/blog/2016/08/30/babili)
 
 ### Released a 0.0.1 of [`babel-preset-env`](https://github.com/babel/babel-preset-env) (autoprefixer for babel)
