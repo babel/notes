@@ -1,4 +1,4 @@
-## August 28 ([discuss](https://github.com/babel/notes/pull/5))
+## September 7 ([discuss](https://github.com/babel/notes/pull/6))
 
 ### Moving back to [Github Issues](https://github.com/babel/babel/issues)!!!
 
@@ -80,4 +80,4 @@ export class A {}
 
 ---
 
-Please feel free to discuss these notes in the [corresponding pull request](https://github.com/babel/notes/pull/1) or join in on our discussions in [#development](https://babeljs.slack.com/messages/development). (Sign up at [slack.babeljs.io](https://slack.babeljs.io/)).
+Please feel free to discuss these notes in the [corresponding pull request](https://github.com/babel/notes/pull/6) or join in on our discussions in [#development](https://babeljs.slack.com/messages/development). (Sign up at [slack.babeljs.io](https://slack.babeljs.io/)).
