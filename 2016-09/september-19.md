@@ -1,4 +1,4 @@
-## September 7 ([discuss](https://github.com/babel/notes/pull/6))
+## September 19 ([discuss](https://github.com/babel/notes/pull/6))
 
 ### [Babili post](http://babeljs.io/blog/2016/08/30/babili)
 
