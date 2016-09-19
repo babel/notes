@@ -24,4 +24,4 @@ Basically copied from [reactjs/core-notes](https://github.com/reactjs/core-notes
 * [August 28](https://github.com/babel/notes/blob/master/2016-08/august-28.md) ([discuss](https://github.com/babel/notes/pull/5))
 
 #### September
-* [September 7](https://github.com/babel/notes/blob/master/2016-09/september-07.md) ([discuss](https://github.com/babel/notes/pull/6))
+* [September 19](https://github.com/babel/notes/blob/master/2016-09/september-19.md) ([discuss](https://github.com/babel/notes/pull/6))
