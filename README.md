@@ -4,7 +4,9 @@
 
 > These notes started July 30, 2016.
 
-Most of our talks happen in the [#development](https://babeljs.slack.com/messages/development) slack room. (Sign up at [slack.babeljs.io](http://slack.babeljs.io/))
+Most of our talks happen in the [#development](https://babeljs.slack.com/messages/development)/[#discussion](https://babeljs.slack.com/messages/discussion) slack rooms. (Sign up at [slack.babeljs.io](http://slack.babeljs.io/))
+
+We also have an archive of the rooms using slackarchive: https://babeljs.slackarchive.io/development/
 
 New notes will be added as pull requests so you will be notified of them if you watch the repo.
 
