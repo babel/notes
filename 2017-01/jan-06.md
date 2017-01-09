@@ -22,10 +22,10 @@ Jan 7th
 - How: Google Hangouts (maybe try another one if audio delay)
 
 ### Open Collective
-- Just got to ask Xavier to flip the switch for open collective
-- Set up teespring link without guy fieri (donate profits back into open collective account)
+- Got the ok from the team! (I also talked with [Xavier](https://twitter.com/xdamman) 2x in person about Open Collective/Babel/etc).
+- Set up Teespring link (Planning on donating the profits back into open collective account so it creates a cycle)
+  - Shirts: both christmas one + regular logo?
 - Sync the open collective blog post + tshirts link + tweet, etc
-- Shirts: both christmas one + regular logo?
 - Blogpost: make it clear what the money will be used for: community, etc
 
 ### Babel 7
