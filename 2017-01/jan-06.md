@@ -57,6 +57,7 @@ Thought it would be awesome if we could fund people to go to TC39 via open colle
  - Example: https://github.com/babel/babel-preset-env/issues/129
 - Provide better onboarding experience for contributors as well as collaborators.
   - Updating our docs with labeled issues: https://github.com/babel/babel.github.io/pull/1126
+  - Node has awesome docs: https://github.com/nodejs/node/blob/master/doc/onboarding.md
 - Talk to schools/teachers/students, partner with orgs like Google Summer of Code?
  - https://twitter.com/left_pad/status/810662070454722560
 
@@ -68,7 +69,7 @@ Thought it would be awesome if we could fund people to go to TC39 via open colle
 
 ### Issues/PR Discussions
 
-- After we added Discourse (Community Discussion) in https://github.com/babel/babel.github.io/pull/875 we’ve been getting generic support questions rather than a discussion about that specific page - we should indicating a message to use slack/github issue for help.
+- After we added Discourse (Community Discussion) in https://github.com/babel/babel.github.io/pull/875 we’ve been getting generic support questions rather than a discussion about that specific page - we should add a message to use slack/github issues for help.
 - https://github.com/babel/babel/pull/5057 (mention-bot -> OK)
 - https://github.com/babel/babel.github.io/pull/1047 (community resources page website -> No for now)
   - Hard to maintain ourselves; maybe just add to https://github.com/dustinspecker/awesome-babel?
