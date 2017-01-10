@@ -1,5 +1,7 @@
 ## January 6/7 ([discuss](https://github.com/babel/notes/pull/11))
 
+> The first "real" meeting! (Previous ones were just my notes/ideas)
+
 Attendees: 
 
 Jan 6th
@@ -16,6 +18,8 @@ Jan 7th
 - [Henry](https://twitter.com/left_pad) ([@hzoo](https://github.com/hzoo))
 - [Logan](https://twitter.com/loganfsmyth) ([@loganfsmyth](https://github.com/loganfsmyth))
 - [Sven](https://twitter.com/svensauleau) ([@xtuc](https://github.com/xtuc))
+
+I figured if we were ever going to do a meeting it would make sense for a discussion on what Babel 7 should be! I'm sure glad we did and hope to do more soon!
 
 ### Meeting Schedule
 - Frequency: once/twice a week/as necessary?
