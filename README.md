@@ -14,7 +14,11 @@ You can comment on the pull requests to discuss the notes, or raise issues if yo
 
 Basically copied from [reactjs/core-notes](https://github.com/reactjs/core-notes)
 
-## Notes
+## Meetings
+
+* [January 6/7](https://github.com/babel/notes/blob/master/2017-01/jan-06.md) ([discuss](https://github.com/babel/notes/pull/11))
+
+## Old Notes (2016)
 
 #### July
 
