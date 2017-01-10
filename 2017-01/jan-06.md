@@ -67,9 +67,10 @@ Thought it would be awesome if we could fund people to go to TC39 via open colle
 
 ### Working On
 
-- Andrew: getting proposals through tc39, spec/grammar
-- Daniel: make babylon output estree
-- Logan: future of Babel (minimal babel-core, fix plugin ordering, perf, debugging)
+- Andrew: Getting proposals through TC39 (decorators with @wycats), learning the spec/grammar, babel-bot
+- Daniel: Make babylon output estree (Issue [#278](https://github.com/babel/babylon/issues/278), PR [#277](https://github.com/babel/babylon/pull/277))
+- Logan: Future of Babel (minimal babel-core, fix plugin ordering, perf, debugging)
+- Henry: babel-preset-env + babili, Babel 7 release
 
 ### Issues/PR Discussions
 
