@@ -1,6 +1,6 @@
 ## January 6/7 ([discuss](https://github.com/babel/notes/pull/11))
 
-> The first "real" meeting! (Previous ones were just my notes/ideas)
+> The first "real" meeting! (previous ones were just my notes/ideas)
 
 Attendees: 
 
