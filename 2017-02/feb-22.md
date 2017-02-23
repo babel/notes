@@ -1,17 +1,21 @@
 ## Feb 22 ([discuss](https://github.com/babel/notes/pull/15))
 
+Just wanted to write up some quick high level updates.
+
 ### Babel 7 updates
 
-- [Upgrading to Babel 7 post](https://github.com/babel/babel.github.io/pull/1146): Will post this soon and update as we go along for people that want to use it early.
-- [What's in Babel 7](https://github.com/babel/babel.github.io/pull/1166)
+- [Planning for Babel 7](https://github.com/babel/babel.github.io/pull/1166): what's going on so far.
+- [Upgrade to Babel 7](https://github.com/babel/babel.github.io/pull/1146): Will post this soon and update as we go along for people that want to use it early.
+
+Will do a few pre-releases to test. But need to think about upgrade path for libraries/apps, open source and everyone else.
 
 ### Getting Contributors
 
-- Big focus on `beginner-friendly` issues for Babel 7: 
+- Big focus on [`beginner-friendly`](https://github.com/babel/babel/issues?q=is%3Aissue+label%3Abeginner-friendly+is%3Aclosed) issues for Babel 7: it's been really awesome to see the contributions
 - We are accepted to [Rails Girls Summer of Code](https://teams.railsgirlssummerofcode.org/projects/177-babel): please spread the word!
 - We made our application for Google Summer of Code: https://github.com/babel/babel/wiki/Google-Summer-of-Code-Proposals
 
-If you have any suggestions please reach out!
+If you have any suggestions on how we can do more, please reach out! (comment here, join slack, or twitter)
 
 ### Future Discussions
 
