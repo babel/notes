@@ -14,6 +14,8 @@ Basically copied from [reactjs/core-notes](https://github.com/reactjs/core-notes
 
 * [January 6/7](https://github.com/babel/notes/blob/master/2017-01/jan-06.md) ([discuss](https://github.com/babel/notes/pull/11))
 
+* [Feb 22](https://github.com/babel/notes/blob/master/2017-02/feb-22.md) ([discuss](https://github.com/babel/notes/pull/15))
+
 ## Old Notes (2016)
 
 > When we didn't have "meetings", but just notes to discuss development.
