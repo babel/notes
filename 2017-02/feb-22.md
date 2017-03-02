@@ -13,7 +13,7 @@ Will do a few pre-releases to test; need to think about upgrade path for oss lib
 
 - Big focus on [`beginner-friendly`](https://github.com/babel/babel/issues?q=is%3Aissue+label%3Abeginner-friendly+is%3Aclosed) issues for Babel 7: it's been really awesome to see the contributions
 - We are accepted to [Rails Girls Summer of Code](https://teams.railsgirlssummerofcode.org/projects/177-babel): please spread the word!
-- We made our application for Google Summer of Code: https://github.com/babel/babel/wiki/Google-Summer-of-Code-Proposals
+- We're also in Google Summer of Code! https://summerofcode.withgoogle.com/organizations/5842528113786880/
 - Open Collective?
 
 If you have any suggestions on how we can do more, please reach out! (comment here, join slack, or twitter)
