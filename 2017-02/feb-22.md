@@ -25,7 +25,7 @@ We've added a few folks as collaborators along the way!
 | Name | Aaron Ang | Artem Yavorsky | Samuel Reed | Sergey Rubanov | 
 |---|---|---|---|---|
 | github | [@aaronang](https://github.com/aaronang) | [@yavorsky](https://github.com/yavorsky) | [@STRML](https://github.com/STRML) | [@chicoxyzzy](https://github.com/chicoxyzzy) |
-| twitter | [@awzang](https://twitter.com/awzang) | [@yavorsky_](https://twitter.com/yavorsky_) | [@STRML_](https://twitter.com/STRML_) | [@chicoxyzzy](https://twitter.com/chicoxyzzy) |
+| twitter | [@_aaronang](https://twitter.com/_aaronang) | [@yavorsky_](https://twitter.com/yavorsky_) | [@STRML_](https://twitter.com/STRML_) | [@chicoxyzzy](https://twitter.com/chicoxyzzy) |
 
 - Aaron just joined our slack this past week and as been super excited about getting involved: made a few PRs and efforts to improve our site and contributing docs.
 - Artem has been making a lot of great PRs to babel-preset-env and is also getting started with other stuff
