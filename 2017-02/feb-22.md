@@ -18,6 +18,20 @@ Will do a few pre-releases to test; need to think about upgrade path for oss lib
 
 If you have any suggestions on how we can do more, please reach out! (comment here, join slack, or twitter)
 
+### Team Additions
+
+We've added a few folks as collaborators along the way!
+
+| Name | Aaron Ang | Artem Yavorsky | Samuel Reed | Sergey Rubanov | 
+|---|---|---|---|---|
+| github | [@aaronang](https://github.com/aaronang) | [@yavorsky](https://github.com/yavorsky) | [@STRML](https://github.com/STRML) | [@chicoxyzzy](https://github.com/chicoxyzzy) |
+| twitter | [@_aaronang](https://twitter.com/_aaronang) | [@yavorsky_](https://twitter.com/yavorsky_) | [@STRML_](https://twitter.com/STRML_) | [@chicoxyzzy](https://twitter.com/chicoxyzzy) |
+
+- Aaron just joined our slack this past week and as been super excited about getting involved: made a few PRs and efforts to improve our site and contributing docs.
+- Artem has been making a lot of great PRs to babel-preset-env and is also getting started with other stuff.
+- Samuel has made most of the PRs for fixing the bugs that we've having with the react constant elements plugin as well as added discourse comments support to our docs pages.
+- Sergey helps maintain compat-table and has been helping with babel-preset-env.
+
 ### Future Discussions
 
 > TODO
