@@ -9,7 +9,7 @@
 - [Rails Girls Summer of Code](https://teams.railsgirlssummerofcode.org/projects/177-babel) submissions are over. Next on the timeline is waiting for acceptance letters on May 1.
 - [Google Summer of Code](https://summerofcode.withgoogle.com/organizations/5842528113786880/): We're reviewing applications at the moment.
 - How can we reach out to companies that are using Babel for contributions/maintaince help? Had some fun with a small little April Fools joke that sparked some discussion about OSS and funding. We'll be talking to some interested companies/teams that want to contribute dev time to the project (roadmap below).
-- Open Collective? Super related to ^, we're on [Open Collective](https://opencollective.com/babel) now! Better than funding, we'd encourage you to ask your employee to donate, or for them to donate dev time to the project to help us out.
+- We're on [Open Collective](https://opencollective.com/babel) now! Better than funding, we'd encourage you to ask your employee to donate, or for them to donate dev time to the project to help us out.
 
 If you have any suggestions on how we can do more, please reach out! (comment here, join [Slack](https://slack.babeljs.io/), or [Twitter](https://twitter.com/babeljs).
 
