@@ -2,16 +2,16 @@
 
 ### Babel 7 Updates
 
-- [Upgrade to Babel 7](https://github.com/babel/babel.github.io/pull/1146): We posted this for the alpha version already (v7.0.0-alpha.7), which we don't make any guarantees on (although we are using it at Behance).
+- [Upgrade to Babel 7](https://github.com/babel/babel.github.io/pull/1146): We posted this for the alpha version already (v7.0.0-alpha.7), which we don't make any guarantees about (we are using it at Behance).
 
 ### Getting Contributors
 
 - [Rails Girls Summer of Code](https://teams.railsgirlssummerofcode.org/projects/177-babel) submissions are over. Next on the timeline is waiting for acceptance letters on May 1.
 - [Google Summer of Code](https://summerofcode.withgoogle.com/organizations/5842528113786880/): We're reviewing applications at the moment.
-- How can we reach out to companies that are using Babel for contributions/maintaince help? Had some fun with a small little April Fools joke that sparked some discussion about OSS and funding. We'll be talking to some interested companies/teams that want to contribute dev time to the project (roadmap below).
+- How can we reach out to companies that are using Babel for contributions/maintenance help? Had some fun with a small little April Fools joke that sparked some discussion about OSS and funding. We'll be talking to some interested companies/teams that want to contribute dev time to the project (roadmap below).
 - We're on [Open Collective](https://opencollective.com/babel) now! Better than funding, we'd encourage you to ask your employee to donate, or for them to donate dev time to the project to help us out.
 
-If you have any suggestions on how we can do more, please reach out! (comment here, join [Slack](https://slack.babeljs.io/), or [Twitter](https://twitter.com/babeljs).
+If you have any suggestions on how we can do more, please reach out by commenting here, on [Slack](https://slack.babeljs.io/), or on [Twitter](https://twitter.com/babeljs).
 
 ### Team Additions
 
@@ -69,10 +69,12 @@ What we should be working on at a high level to move the project forward?
 
 > Ref [babel-plugin-transform-decorators-legacy](https://github.com/loganfsmyth/babel-plugin-transform-decorators-legacy#note-order-of-plugins-matters), [#256](https://github.com/babel/babel-preset-env/issues/256), [RFC Explicit Plugin Ordering](https://github.com/babel/babel/issues/4488), [#4882](https://github.com/babel/babel/issues/4882), [#4117](https://github.com/babel/babel/issues/4117), [Lossy Visitor](https://github.com/babel/babel/pull/3335), [passPerPreset](https://github.com/babel/babel/pull/3281)
 
-* Babel-Minify 1.0
+* [Babel-Minify 1.0](https://github.com/babel/babili/milestone/4)
     * With the amount of interest in preset-env, there should be an equal if not greater amount of want for an ES2015+ minifier
     * Setup smoke tests, test on major OSS repos using ES6
     * Fix scoping in Babel or visitor traversal if necessary to make this happen.
+* How should Babel deal with compiling `node_modules` and handling `.babelrc` files in libraries
+    * Babel wasn't designed to run over node_modules but this is becoming more common as npm package authors are targeting Node 4, etc.
 * Move babel-preset-env into core (or a package (like `babel`) that includes it by default)
     * If we bake in capabilities discovery, it makes sense to be able to just install babel and it to work without env (no reason not to)
 * User workflow improvements (babel-init, default safe preset-env, etc.)
