@@ -42,8 +42,8 @@ Some TC39 folks are joining us as collaborators! They've either been awesome in 
 * What does it mean to be a member? GitHub commit bit
 * How does that evolve? Write documentation for a promotion strategy (Contributor -> Member -> Core Member)
 * How do people become inactive?
-    * Move them to the "inactive" section on team page
-    * Remove rights
+    * Keep members in the org, but move them to a separate team without commit rights
+    * Move them to the "inactive" section on our team page
 
 > Sidenote: Move to an npm org so we can easily add/remove people!
 > Need to email npm support to get around a current bug with transferring a package to an org
