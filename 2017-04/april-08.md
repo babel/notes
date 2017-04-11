@@ -58,7 +58,7 @@ Some TC39 folks are joining us as collaborators! They've either been awesome in 
 
 > What we should be working on (at a high level) to move the project forward?
 
-* Fix plugin ordering and/via capabilities discovery
+* Fix plugin ordering and/via capabilities discovery (made [#5623](https://github.com/babel/babel/issues/5623))
     * Plugins provide a function to state the capabilities it provides and which it needs
     * This includes both syntax and built-ins
     * This is important to fix plugin ordering automatically in Babel itself. If the `classes` plugin transpiles classes and `decorators` run over classes, then with this information Babel will know to make decorators run first.
