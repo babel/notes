@@ -1,12 +1,10 @@
 ## April 8 ([discuss](https://github.com/babel/notes/pull/19))
 
-### Babel 7 Updates
-
-- [Upgrade to Babel 7](https://github.com/babel/babel.github.io/pull/1146): We posted this for the alpha versions already (currently v7.0.0-alpha.7). We don't make any guarantees about not breaking things between those versions (we are using it at Behance though).
+> Members who were at this past meeting: Boopathi, Logan, Sven, Henry
 
 ### Getting Contributors
 
-- [Rails Girls Summer of Code](https://teams.railsgirlssummerofcode.org/projects/177-babel) submissions are over. Next on the timeline is waiting for acceptance letters on May 1.
+- [Rails Girls Summer of Code](https://teams.railsgirlssummerofcode.org/projects/177-babel) submissions are in. Next on the timeline is waiting for acceptance letters on May 1.
 - [Google Summer of Code](https://summerofcode.withgoogle.com/organizations/5842528113786880/): We're reviewing applications at the moment.
 - How can we reach out to companies that are using Babel for help? We Had some fun with a small little April Fools joke that sparked more serious discussion about OSS and funding. We'll be talking to some interested companies/teams that want to contribute dev time to the project (keep reading to check our proposed roadmap below).
 - We're on [Open Collective](https://opencollective.com/babel) now! Better than funding, we'd encourage you to ask your employee to donate, or for them to donate dev time to the project to help us out.
@@ -51,6 +49,7 @@ Some TC39 folks are joining us as collaborators! They've either been awesome in 
 > Need to email npm support to get around a current bug with transferring a package to an org
 
 ## Team meetings!
+
 * Frequency: Once a month, at least
 * Time: Need to schedule this out since we have members in many different timezones
 * Content: Agenda proposals + "What are we doing", "What's missing", "What are our priorities"
@@ -79,6 +78,10 @@ Some TC39 folks are joining us as collaborators! They've either been awesome in 
     * If we bake in capabilities discovery, it makes sense to be able to just install babel and it to work without env (no reason not to)
 * User workflow improvements (babel-init, default safe preset-env, etc.)
     * Fix first time setup, upgrades, good defaults
+
+### Babel 7 Updates
+
+- [Upgrade to Babel 7](https://github.com/babel/babel.github.io/pull/1146): We posted this for the alpha versions already (currently v7.0.0-alpha.7). We don't make any guarantees about not breaking things between those versions (we are using it at Behance though).
 
 ---
 
