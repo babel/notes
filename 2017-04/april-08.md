@@ -2,24 +2,24 @@
 
 ### Babel 7 Updates
 
-- [Upgrade to Babel 7](https://github.com/babel/babel.github.io/pull/1146): We posted this for the alpha version already (v7.0.0-alpha.7), which we don't make any guarantees about (we are using it at Behance).
+- [Upgrade to Babel 7](https://github.com/babel/babel.github.io/pull/1146): We posted this for the alpha versions already (currently v7.0.0-alpha.7). We don't make any guarantees about not breaking things between those versions (we are using it at Behance though).
 
 ### Getting Contributors
 
 - [Rails Girls Summer of Code](https://teams.railsgirlssummerofcode.org/projects/177-babel) submissions are over. Next on the timeline is waiting for acceptance letters on May 1.
 - [Google Summer of Code](https://summerofcode.withgoogle.com/organizations/5842528113786880/): We're reviewing applications at the moment.
-- How can we reach out to companies that are using Babel for contributions/maintenance help? Had some fun with a small little April Fools joke that sparked some discussion about OSS and funding. We'll be talking to some interested companies/teams that want to contribute dev time to the project (roadmap below).
+- How can we reach out to companies that are using Babel for help? We Had some fun with a small little April Fools joke that sparked more serious discussion about OSS and funding. We'll be talking to some interested companies/teams that want to contribute dev time to the project (keep reading to check our proposed roadmap below).
 - We're on [Open Collective](https://opencollective.com/babel) now! Better than funding, we'd encourage you to ask your employee to donate, or for them to donate dev time to the project to help us out.
 
 If you have any suggestions on how we can do more, please reach out by commenting here, on [Slack](https://slack.babeljs.io/), or on [Twitter](https://twitter.com/babeljs).
 
 ### Team Additions
 
-Some TC39 folks are joining us as collaborators! They've either been awesome in making issues for spec compliancy, helping out in slack, or implementing parser/plugin proposals.
+Some TC39 folks are joining us as collaborators! They've either been awesome in making issues for spec compliancy, helping out in slack, and/or implementing parser/plugin proposals.
 
-- [Jordan Harband, @ljharb](https://github.com/ljharb)
-- [Sathya, @gsathya](https://github.com/gsathya)
-- [Kevin Gibbons, @bakkot](https://github.com/bakkot)
+- [Jordan Harband, @ljharb (Airbnb)](https://github.com/ljharb)
+- [Sathya, @gsathya (Google/v8)](https://github.com/gsathya)
+- [Kevin Gibbons, @bakkot (Shape Security)](https://github.com/bakkot)
 
 ### Proposed Team Structure/Governance
 * Who is on the team?
