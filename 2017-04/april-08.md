@@ -24,7 +24,7 @@ Some TC39 folks are joining us as collaborators! They've either been awesome in 
 ### Proposed Team Structure/Governance
 * Who is on the team?
     * Add them to the team page - [babel/babel](https://github.com/babel/babel#team)
-    * We should designate area/project leads
+    * We should designate area/project leads (putting the current people below)
     * [Overall](https://github.com/babel) - Henry
     * [Core](https://github.com/babel/babel) - Logan
     * [Parser](https://github.com/babel/babylon) - Daniel
@@ -38,7 +38,7 @@ Some TC39 folks are joining us as collaborators! They've either been awesome in 
     * Probably specific leads for Flow/TypeScript/React?
     * (this is just the current state of things, can change)
 
-> Sidenote: would moving ESLint to it's respective orgs be better? or Webpack?
+> Sidenote: Would moving babel-eslint to its respective organization be better? What about babel-loader?
 
 * What does it mean to be a core member/lead? NPM publishing rights 
 * What does it mean to be a member? GitHub commit bit
@@ -57,7 +57,7 @@ Some TC39 folks are joining us as collaborators! They've either been awesome in 
 
 ## Proposed Babel Roadmap
 
-What we should be working on at a high level to move the project forward?
+> What we should be working on (at a high level) to move the project forward?
 
 * Fix plugin ordering and/via capabilities discovery
     * Plugins provide a function to state the capabilities it provides and which it needs
