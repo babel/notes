@@ -20,13 +20,21 @@ Babel Team Meeting - 2017-05-31
  
 ## Discussion
  
-### Weekly Meetings!
+### Weekly Meetings! (Wednesday)
  
 - Introductions!
 - We have them now. Coming up with a time was hard. I'm sorry if we failed to accommodate your time zone.
-- Most people seem comfortable with our selected time.
+- Most people seem comfortable with our selected time
 
-
+|Location | Local Time | Time Zone | UTC Offset|
+|---|---|---|---|
+|San Jose (USA - California) | 6:00:00 am | PDT | UTC-7 hours|
+|London (United Kingdom - England) | 2:00:00 pm | BST | UTC+1 hour|
+|Berlin (Germany - Berlin) |  3:00:00 pm | CEST | UTC+2 hours|
+|Kolkata (India - West Bengal) | 6:30:00 pm | IST | UTC+5:30 hours|
+|Tokyo (Japan) | 10:00:00 pm | JST | UTC+9 hours|
+|Sydney (Australia - New South Wales) | 11:00:00 pm | AEST | UTC+10 hours|
+|Corresponding UTC (GMT) |  13:00:00|
  
 ### Summer of Code!
  
