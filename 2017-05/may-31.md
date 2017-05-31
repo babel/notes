@@ -57,12 +57,12 @@ PR: https://github.com/babel/babel/pull/5735
 
 - Champion: Henry, participate by opening pull requests targeting his branch. Has time during work for coding.
 - If we have a dependency graph of all of the plugins we can check for duplicates and do better config validation.
-- DAG resolution.
+- DAG (directed acyclic graph) resolution.
 - Could provide us an opportunity for better error messages.
 - Each plugin provides a certain capability or feature. (This is "before" and "after" in DAG terminology.)
 - This is part of the core of Babel, we have to do some sort of plugin loading sorting.
  
-### Open Collective
+### [Open Collective](https://opencollective.com/babel)
  
 - How do you want this to work and what do you want this to do for Babel?
 - Would like to have enough money to:
@@ -72,18 +72,18 @@ PR: https://github.com/babel/babel/pull/5735
 - Money is important, but the number of people working on the project is actually the biggest limiting factor.
 - Sven: Mailing t-shirts to contributors may be a worthwhile thing to do.
  
-### TC39
+### [TC39](https://github.com/tc39)
  
 - Group of people who work together to help specify JavaScript.
   - Implementers: write JavaScript interpreters and implement the features (but don't necessarily write JS)
   - Language designers: People who have been working in language design and desire features.
   - Developers: Users of the JavaScript language.
 - Representatives from major companies.
-- Logan was able to attend in March in Portland.
+- Logan was able to attend in [March](https://github.com/rwaldron/tc39-notes/blob/master/es8/2017-03/mar-21.md) in Portland.
 - Last month it was in NYC so Henry was able to attend.
-- Gave a presentation on how to use Babel to help specify JavaScript.
+- Gave [a presentation](https://twitter.com/kosamari/status/867443846698987520) on how to use Babel to help specify JavaScript ([slides](https://github.com/hzoo/role-of-babel-in-js)).
 - Two goals for Babel:
   - Backwards compatibility for all browsers with current language features.
   - Help TC39 in getting early feedback for the proposals that they come up with.
 - Hope to get Babel plugins as an early indicator for feature gating.
-- Now have some PRs from the proposals from last week coming from the proposal authors!
+- Now have some PRs from the proposals from last week coming from the proposal authors! (Ex: https://twitter.com/rwaldron/status/868207910580613120)
