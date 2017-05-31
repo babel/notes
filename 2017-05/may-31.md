@@ -12,6 +12,7 @@ Babel Team Meeting - 2017-05-31
 - Nathan Hammond
 - Peeyush Kushwaha
 - Sven Sauleau
+- Vignesh Shanmugam
  
 ## Actions
  
