@@ -76,7 +76,7 @@ PR: https://github.com/babel/babel/pull/5735
  
 - Group of people who work together to help specify JavaScript.
   - Implementers: write JavaScript interpreters and implement the features (but don't necessarily write JS)
-  - Language designers: People who are 
+  - Language designers: People who have been working in language design and desire features.
   - Developers: Users of the JavaScript language.
 - Representatives from major companies.
 - Logan was able to attend in March in Portland.
