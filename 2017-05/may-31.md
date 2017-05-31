@@ -25,11 +25,17 @@ Babel Team Meeting - 2017-05-31
 - Introductions!
 - We have them now. Coming up with a time was hard. I'm sorry if we failed to accommodate your time zone.
 - Most people seem comfortable with our selected time.
+
+
  
 ### Summer of Code!
  
 - We have four new people on the team!
-- Y'all are the only four people who are being paid to work on Babel.
+  - [GSoC](https://twitter.com/gsoc): Peeyush Kushwaha, :octocat: [@peey](https://github.com/peey), :bird: [@peeyFTW](https://twitter.com/peeyFTW)
+  - [GSoC](https://twitter.com/gsoc): Karl Cheng, :octocat: [@Qantas94Heavy](https://github.com/Qantas94Heavy), :bird: [@qantas94heavy](https://twitter.com/qantas94heavy)
+  - [RGSoC](https://twitter.com/RailsGirlsSoC): Kara de la Marck, :octocat: [@MarckK](https://github.com/MarckK), :bird: [@KaraMarck](https://twitter.com/KaraMarck)
+  - [RGSoC](https://twitter.com/RailsGirlsSoC): Emma Sofia Pohjalainen :octocat: [@sofiapoh](https://github.com/sofiapoh), :bird: [@sofiapoh](https://twitter.com/sofiapoh)
+- Y'all are the only four people who are being paid to work on Babel full time!
  
 ### Growing Maintainership
  
