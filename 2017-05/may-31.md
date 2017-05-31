@@ -1,16 +1,16 @@
 Babel Team Meeting - 2017-05-31
  
 ## Attendees
-- Henry Zhu
-- Nathan Hammond
-- Peeyush Kushwaha
-- Karl Cheng
-- Kara de la Marck
-- Brian Ng
-- Diogo Franco
 - Andrew Levine
 - Boopathi Rajaa
+- Brian Ng
 - Daniel Tschinder
+- Diogo Franco
+- Henry Zhu
+- Kara de la Marck
+- Karl Cheng
+- Nathan Hammond
+- Peeyush Kushwaha
 - Sven Sauleau
  
 ## Actions
