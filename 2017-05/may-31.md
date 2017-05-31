@@ -24,7 +24,7 @@ Babel Team Meeting - 2017-05-31
  
 - Introductions!
 - We have them now. Coming up with a time was hard. I'm sorry if we failed to accommodate your time zone.
-- Most people seem comfortable with our selected time
+- Most people seem comfortable with [our selected time](https://www.timeanddate.com/worldclock/meetingdetails.html?year=2017&month=5&day=31&hour=13&min=0&sec=0&p1=283&p2=136&p3=54&p4=240&p5=179&p6=37&p7=104&p8=248), shown below.
 
 |Location | Local Time | Time Zone | UTC Offset|
 |---------|------------|-----------|-----------|
