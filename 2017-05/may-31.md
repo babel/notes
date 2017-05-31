@@ -27,10 +27,12 @@ Babel Team Meeting - 2017-05-31
 - Most people seem comfortable with our selected time
 
 |Location | Local Time | Time Zone | UTC Offset|
-|---|---|---|---|
+|---------|------------|-----------|-----------|
 |San Jose (USA - California) | 6:00:00 am | PDT | UTC-7 hours|
+|Houston (USA - Texas) | 8:00:00 am | CDT | UTC-5 hours| 
+|New York (USA - New York) | 9:00:00 am | EDT | UTC-4 hours| 
 |London (United Kingdom - England) | 2:00:00 pm | BST | UTC+1 hour|
-|Berlin (Germany - Berlin) |  3:00:00 pm | CEST | UTC+2 hours|
+|France/Germany |  3:00:00 pm | CEST | UTC+2 hours|
 |Kolkata (India - West Bengal) | 6:30:00 pm | IST | UTC+5:30 hours|
 |Tokyo (Japan) | 10:00:00 pm | JST | UTC+9 hours|
 |Sydney (Australia - New South Wales) | 11:00:00 pm | AEST | UTC+10 hours|
