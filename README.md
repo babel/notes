@@ -10,7 +10,11 @@ You can comment on the pull requests to discuss the notes, or raise issues if yo
 
 Basically copied from [reactjs/core-notes](https://github.com/reactjs/core-notes)
 
+> Team: https://github.com/babel/babel#team
+
 ## Meetings
+
+* [May 31](https://github.com/babel/notes/blob/master/2017-05/may-31.md) ([discuss](https://github.com/babel/notes/pull/20))
 
 * [April 8](https://github.com/babel/notes/blob/master/2017-04/april-08.md) ([discuss](https://github.com/babel/notes/pull/19))
  
