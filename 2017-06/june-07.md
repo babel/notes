@@ -16,7 +16,7 @@
 
 ### Plugin Ordering Updates
 - Large team! @sarupbanskota, @ncantelmi, @jonmajorc, @karadelamarck, @danez, @rwjblue, @hzoo, and more!
-- Have a few proposals we wnat the core team to weigh in on: https://docs.google.com/document/d/1zO1QiaAyDxmA1OcmdOKYLFmuSXGSr4S50pE0uQFTVEE/edit?usp=sharing
+- Have a few proposals we want the core team to weigh in on: https://docs.google.com/document/d/1zO1QiaAyDxmA1OcmdOKYLFmuSXGSr4S50pE0uQFTVEE/edit?usp=sharing
   - Deprecating unnamed plugins in Babel 6.
   - Require plugins to have names in Babel 7.
   - Ordering based solely on plugin name, not `capabilities`.
