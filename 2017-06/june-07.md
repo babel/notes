@@ -65,11 +65,11 @@
 
 ### Other Topics
 
-- [#proposal-opt-chaining](https://babeljs.slack.com/messages/proposal-opt-chaining) on Slack! (a?.b?.c)
+- [#proposal-opt-chaining](https://babeljs.slack.com/messages/proposal-opt-chaining) on Slack! (`a?.b?.c`)
   - PR has been made ([#5813](https://github.com/babel/babel/pull/5813)), but spec is still in flux. See [tc39/proposal-optional-chaining#2](https://github.com/tc39/proposal-optional-chaining/issues/2) and [tc39/proposal-optional-chaining#3](https://github.com/tc39/proposal-optional-chaining/issues/3).
-- Numeric Separator (1_000) [transform](https://github.com/babel/babel/tree/7.0/packages/babel-plugin-transform-numeric-separator) is already released in 7.0.0-alpha.12 (Rick Waldron)
-- BigInt (1n): [parser issue](https://github.com/babel/babylon/issues/569)
-- import.meta: [transform issue](https://github.com/babel/babel/issues/5832)
+- Numeric Separator (`1_000`) [transform](https://github.com/babel/babel/tree/7.0/packages/babel-plugin-transform-numeric-separator) is already released in 7.0.0-alpha.12 (Rick Waldron)
+- BigInt (`1n`): [parser issue](https://github.com/babel/babylon/issues/569)
+- `import.meta`: [transform issue](https://github.com/babel/babel/issues/5832)
 - Boopathi will begin integration testing `babel-preset-env` + `babili` over the next week.
 - Rob: let's begin thinking through cross-process caching.
   - Logan has been doing a lot of caching work (for configs but wanted to apply it to files)
