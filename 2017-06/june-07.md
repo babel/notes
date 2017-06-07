@@ -3,7 +3,7 @@
 ## Attendees
 - Henry Zhu
 - Nathan Hammond
-- 
+- Boopathi Rajaa
  
 ## Actions
  
