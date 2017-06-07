@@ -73,3 +73,5 @@
 - Boopathi will begin integration testing `babel-preset-env` + `babili` over the next week.
 - Rob: let's begin thinking through cross-process caching.
   - Logan has been doing a lot of caching work (for configs but wanted to apply it to files)
+- @rauschma: How should library authors publish untranspiled code?
+  - This is brought up a lot more recently since more environments support ES6. Babel itself may not need to change but we can help provide a recommendation
