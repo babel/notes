@@ -39,7 +39,7 @@
   - If we do a good enough job on the "official" plugins then we wouldn't expect the community to implement this sort of thing and we remove duplication of work since we can all improve the same one.
 - Macro expansions ... don't really care which one is used, just run one before it.
   - In this case the author of the plugin could specify `after` for each of the plugins which are valid.
-- Users will definetely have conflicting plugins, will need to provide better messaging either way.
+- Users will definitely have conflicting plugins, will need to provide better messaging either way.
 - Default to using plugin name and then use `capabilities` as an escape hatch?
 
 ### Class Fields
