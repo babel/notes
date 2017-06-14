@@ -29,6 +29,8 @@
 
 ### Class Fields Updates
 
+> Karl/Diego
+
 - Open questions on the spec.
   - How are things are going to interact with decorators?
   - Keep the `#x` shorthand vs `this.#x` ? If we add it and people actually use it then it becomes a reason for TC39 to keep it.
@@ -36,6 +38,8 @@
 - Haven't implemented comma separated fields and some other restrictions.
 
 ### Decorators Updates
+
+> Peey/Diego
 
 - Build the thing which is currently specified.
 - Plan for no interop with private/public fields as that is unspecified.
@@ -69,12 +73,14 @@
 
 ### Optional Chaining
 
+> Justin
+
 PR is open, ready for review but there are some open spec questions: https://github.com/babel/babel/pull/5813
 
 ### Priority Topics
 
 - Last week's topics as people had limited bandwidth.
-- Typescript Support in Babylon for review (by @andy-ms): https://github.com/babel/babylon/pull/523, https://github.com/babel/babel/pull/5856
+- Typescript Support in Babylon for review (by [Andy on the TypeScript team](https://github.com/andy-ms)): https://github.com/babel/babylon/pull/523, https://github.com/babel/babel/pull/5856
   - HUGE PR, needs lots of work to review.
   - Should figure out how to review just the parser.
   - Ideally continually land changes in our pre-releases for everyone to test.
