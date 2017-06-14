@@ -15,7 +15,7 @@
 ## Actions
  
 - [X] (Nathan) Publish meeting notes.
-- [ ] Document the 0.X plugin stage policy.
+- [ ] (Henry) Document the 0.X plugin stage policy.
  
 ## Discussion
 
@@ -24,16 +24,16 @@
 - Moving to `before`/`after`.
 - James Kyle wrote a blog post about Plugin Ordering: http://thejameskyle.com/babel-plugin-ordering.html
 - Open issue for further discussion: https://github.com/babel/babel/issues/5854
-- Explore tradeoffs between package name vs. "capabilities".
+- Explore tradeoffs between explicit package name vs. "capabilities". (hardcoded or semantic string)
 - Open question: how does this work with the host environment?
 
 ### Class Fields Updates
 
 - Open questions on the spec.
   - How are things are going to interact with decorators?
-  - `#x` shorthand? If we add it and people actually use it then it becomes a reason for TC39 to keep it.
-- Need a way to search GitHub to determine if people are using particular syntax. (Is a project in and of itself. Possibly BigQuery + AST search.)
-- Haven't implemented comma separated fields.
+  - Keep the `#x` shorthand vs `this.#x` ? If we add it and people actually use it then it becomes a reason for TC39 to keep it.
+- Need a way to search GitHub to determine if people are using particular syntax. (Is a project in and of itself. Possibly using BigQuery + AST search.)
+- Haven't implemented comma separated fields and some other restrictions.
 
 ### Decorators Updates
 
@@ -69,7 +69,7 @@
 
 ### Optional Chaining
 
-PR is open, ready for review but thre are some open spec questions: https://github.com/babel/babel/pull/5813
+PR is open, ready for review but there are some open spec questions: https://github.com/babel/babel/pull/5813
 
 ### Priority Topics
 
