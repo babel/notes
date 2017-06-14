@@ -14,6 +14,8 @@ Basically copied from [reactjs/core-notes](https://github.com/reactjs/core-notes
 
 ## Meetings
 
+* [June 14](https://github.com/babel/notes/blob/master/2017-06/june-14.md) ([discuss](https://github.com/babel/notes/pull/22))
+
 * [June 7](https://github.com/babel/notes/blob/master/2017-06/june-07.md) ([discuss](https://github.com/babel/notes/pull/21))
 
 * [May 31](https://github.com/babel/notes/blob/master/2017-05/may-31.md) ([discuss](https://github.com/babel/notes/pull/20))
