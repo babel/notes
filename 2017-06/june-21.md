@@ -74,7 +74,7 @@ and remove our monkeypatching.
 
 - We should to have one place to show the progress of Babel on TC39 proposals.
 - https://github.com/babel/proposals just copy-pasted at the moment.
-- Make it easier to track.
+- Make it easier to track (make an meta-issue for each proposal instead of one in babylon/babel?)
 - Sergey, making something that is more like compat-table 2.0 (at some point)
 - Link to test262 tests.
 - Leo Balter, Brian Terlson are interested.
@@ -88,4 +88,4 @@ and remove our monkeypatching.
 
 ### Priority Topics
 
-Sounds like we need reviewers?
+Sounds like we need reviewers? With Summer of Code and our efforts in contributions we have a lot more PRs which is great, but not encouraging enough reviewing. There's a huge emphasis on contributing code in OSS rather than maintenance.
