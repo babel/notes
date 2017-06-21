@@ -11,11 +11,29 @@
  
 ## Discussion
 
-### Plugin Ordering Updates
+### Plugin Ordering?
+
+### Meeting times
+
+We should try another time or switch?
+
+## Babel-eslint
+
+Daniel already made a [PR](https://github.com/babel/babel-eslint/pull/489) to use the ESTree plugin!
+ESLint itself has a [PR](https://github.com/eslint/eslint/pull/8755) to make the integration easier
+and remove our monkeypatching.
 
 ## Proposals
 
 > TC39 May notes posted: https://github.com/rwaldron/tc39-notes/blob/master/es8/2017-05/summary.md
+
+## Babel status on Proposals
+
+> https://twitter.com/left_pad/status/876881456517263360
+
+We should to have one place to show the progress of Babel on TC39 proposals.
+
+https://github.com/babel/proposals just copy-pasted at the moment.
 
 ### BigInt
 
@@ -34,12 +52,6 @@ Justin's [PR](https://github.com/babel/babel/pull/5813) needs review
 ### Typescript in Babylon
 
 Andy's PRs: https://github.com/babel/babylon/pull/523, https://github.com/babel/babel/pull/5856
-
-## Babel-eslint
-
-Daniel already made a [PR](https://github.com/babel/babel-eslint/pull/489) to use the ESTree plugin!
-ESLint itself has a [PR](https://github.com/eslint/eslint/pull/8755) to make the integration easier
-and remove our monkeypatching.
 
 ### Priority Topics
 
