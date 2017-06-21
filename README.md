@@ -1,16 +1,16 @@
 # Babel Notes
 
-Most of our talks happen in the [#development](https://babeljs.slack.com/messages/development)/[#discussion](https://babeljs.slack.com/messages/discussion) slack rooms. (Sign up at [slack.babeljs.io](http://slack.babeljs.io/))
+Currently, we do video chat on Wednesdays at 9:00 AM EST. (Planning on switching the times every other meeting to fit everyone around the world)
 
-We also have an archive of the rooms using slackarchive: https://babeljs.slackarchive.io/development/
-
-New notes will be added as pull requests so you will be notified of them if you watch the repo.
-
-You can comment on the pull requests to discuss the notes, or raise issues if you would like to ask for a clarification!
-
-Basically copied from [reactjs/core-notes](https://github.com/reactjs/core-notes)
+New notes are added as pull requests (watch the repo!): feel free to comment on them!
 
 > Team: https://github.com/babel/babel#team
+
+## Communication
+
+Most of our discussions happen in the [#development](https://babeljs.slack.com/messages/development)/[#discussion](https://babeljs.slack.com/messages/discussion) slack rooms. (Sign up at [slack.babeljs.io](http://slack.babeljs.io/))
+
+We also have an archive of the rooms using slackarchive: https://babeljs.slackarchive.io/development/
 
 ## Meetings
 
