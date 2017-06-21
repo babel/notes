@@ -50,11 +50,11 @@
   - After making this change we could move the code from Babylon and out of babel-core.
 - ESLint itself has a [PR](https://github.com/eslint/eslint/pull/8755) to make the integration easier
 and remove our monkeypatching.
-  - Module called es-scope, most modules don't require a specific module and then runtime patch it.
+  - ESLint uses [eslint-scope](https://github.com/eslint/eslint-scope) (a fork of [escope](https://github.com/estools/escope)), most modules don't require a specific module and then runtime patch it.
   - Expose a scope key, and have an actual scope API.
   - babel-eslint changes the default config, sometime assumes script vs. module sourceType.
   - Should probably keep the config that they use for eslint.
-  - Another plugin in Babylon for eslint so that we don't have to mutate the AST afterward.
+  - Possibly add another Babylon plugin for eslint so that we don't have to mutate the AST afterward.
     - babel-eslint should have less and less code in it.
 - Should set up additional conversations with the eslint team.
 
