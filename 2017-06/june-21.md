@@ -23,14 +23,13 @@
 
 ### Inline Parameters
 
-- Peeyush
+- https://github.com/babel/babel/pull/5751 by @peey
 - Moves the parameters into the function body so that the normal rest spread can be reused.
-- Not a separate visitor, instead it's a method on the path object to identify `path.inlineParameters`
-- Object Spread wasn't workign because there were multiple plugins that were using it.
+- Not a separate visitor, instead it's a method on the path object `fnPath.inlineParameters()`
+- Object Rest Spread had bugs because logic was duplicated in paramters transform.
 - Counts as a refactor of Henry's code.
 - Request of additional documentation.
-- Handles default parameters, rest?
-- https://github.com/babel/babel/pull/5751
+- Handles default parameters (including spread), rest, ObjectPattern and ArrayPattern
 
 ### TypeScript in Babylon
 
