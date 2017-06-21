@@ -68,7 +68,7 @@ and remove our monkeypatching.
 
 > TC39 May notes posted: https://github.com/rwaldron/tc39-notes/blob/master/es8/2017-05/summary.md
 
-#### Babel Status on Proposals
+#### Dashboard: Babel Status on Proposals
 
 > https://twitter.com/left_pad/status/876881456517263360
 
@@ -79,21 +79,12 @@ and remove our monkeypatching.
 - Link to test262 tests.
 - Leo Balter, Brian Terlson are interested.
 
-#### BigInt
+### Updates
 
-- @wdhorton has a [Babylon PR](https://github.com/babel/babylon/pull/588) open.
-
-### Class Fields Updates
-
-- Karl as a branch with some initial work on it (not a PR yet)
-
-### Decorators
-
-- Peeyush has a [Babylon PR](https://github.com/babel/babylon/pull/587) ready.
-
-### Optional Chaining
-
-- Justin's [PR](https://github.com/babel/babel/pull/5813) needs review.
+- BigInt: @wdhorton has a [Babylon PR](https://github.com/babel/babylon/pull/588) open.
+- Class Fields Updates: Karl as a branch with some initial work on it (not a PR yet)
+- Decorators: Peeyush has a [Babylon PR](https://github.com/babel/babylon/pull/587) ready.
+- Optional Chaining: Justin's [PR](https://github.com/babel/babel/pull/5813) needs review.
 
 ### Priority Topics
 
