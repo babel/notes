@@ -33,7 +33,7 @@ and remove our monkeypatching.
 
 We should to have one place to show the progress of Babel on TC39 proposals.
 
-https://github.com/babel/proposals just copy-pasted at the moment.
+Just pasted the contents of the official repo into https://github.com/babel/proposals.
 
 ### BigInt
 
