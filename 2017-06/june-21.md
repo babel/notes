@@ -1,57 +1,99 @@
 # Babel Team Meeting - 2017-06-21
    
 ## Attendees
-- Henry Zhu 
+- Henry Zhu
+- Karl Cheng
+- Nathan Hammond
+- Sarup Banskota
+- Daniel Tschinder
+- Kara de la Marck
+- Peeyush
+- Brian Ng
  
 ## Actions
  
-- [ ] (Henry) Document proposal semver policy
-- [ ] (Henry) Publish meeting notes.
-- [ ] (Nathan) Promote priority task for this week.
+- [ ] (Nathan) Publish meeting notes.
  
 ## Discussion
 
-### Plugin Ordering?
+### Plugin Ordering
 
-### Meeting times
+- Need reviewers.
+- https://github.com/babel/babel/pull/5842/
 
-We should try another time or switch?
+### Inline Parameters
 
-## Babel-eslint
+- Peeyush
+- Moves the parameters into the function body so that the normal rest spread can be reused.
+- Not a separate visitor, instead it's a method on the path object to identify `path.inlineParameters`
+- Object Spread wasn't workign because there were multiple plugins that were using it.
+- Counts as a refactor of Henry's code.
+- Request of additional documentation.
+- Handles default parameters, rest?
+- https://github.com/babel/babel/pull/5751
 
-Daniel already made a [PR](https://github.com/babel/babel-eslint/pull/489) to use the ESTree plugin!
-ESLint itself has a [PR](https://github.com/eslint/eslint/pull/8755) to make the integration easier
+### TypeScript in Babylon
+
+- Andy's PRs: https://github.com/babel/babylon/pull/523, https://github.com/babel/babel/pull/5856
+- Lots and lots of code, it's kind of a patch bomb.
+- Doesn't appear to be many changes to core Babylon.
+- Most of the code is in the plugin.
+- If the core changes make sense, and are reasonable, we can defer to Microsoft for maintenance of anything they've upstreamed.
+- Is there any particular reason for us to include the plugin in core?
+- Overwriting methods is a bit sketchy in terms of maintenance. Tradeoff is in plugin code complexity vs. core complexity.
+- Who owns maintainership? How do we ensure ongoing partnership?
+- Will rely on community to push this forward.
+
+### babel-eslint
+
+- Daniel already made a [PR](https://github.com/babel/babel-eslint/pull/489) to use the ESTree plugin!
+  - After making this change we could move the code from Babylon and out of babel-core.
+- ESLint itself has a [PR](https://github.com/eslint/eslint/pull/8755) to make the integration easier
 and remove our monkeypatching.
+  - Module called es-scope, most modules don't require a specific module and then runtime patch it.
+  - Expose a scope key, and have an actual scope API.
+  - babel-eslint changes the default config, sometime assumes script vs. module sourceType.
+  - Should probably keep the config that they use for eslint.
+  - Another plugin in Babylon for eslint so that we don't have to mutate the AST afterward.
+    - babel-eslint should have less and less code in it.
+- Should set up additional conversations with the eslint team.
 
-## Proposals
+### Meeting Times
+
+- We should try another time or switch?
+- 9am Eastern half time
+- 12pm Eastern other half
+
+### Proposals
 
 > TC39 May notes posted: https://github.com/rwaldron/tc39-notes/blob/master/es8/2017-05/summary.md
 
-## Babel status on Proposals
+#### Babel Status on Proposals
 
 > https://twitter.com/left_pad/status/876881456517263360
 
-We should to have one place to show the progress of Babel on TC39 proposals.
+- We should to have one place to show the progress of Babel on TC39 proposals.
+- https://github.com/babel/proposals just copy-pasted at the moment.
+- Make it easier to track.
+- Sergey, making something that is more like compat-table 2.0 (at some point)
+- Link to test262 tests.
+- Leo Balter, Brian Terlson are interested.
 
-Just pasted the contents of the official repo into https://github.com/babel/proposals.
+#### BigInt
 
-### BigInt
-
-@wdhorton has a [Babylon PR](https://github.com/babel/babylon/pull/588) open.
+- @wdhorton has a [Babylon PR](https://github.com/babel/babylon/pull/588) open.
 
 ### Class Fields Updates
 
+- Karl as a branch with some initial work on it (not a PR yet)
+
 ### Decorators
 
-Peeyush has a [Babylon PR](https://github.com/babel/babylon/pull/587) ready.
+- Peeyush has a [Babylon PR](https://github.com/babel/babylon/pull/587) ready.
 
 ### Optional Chaining
 
-Justin's [PR](https://github.com/babel/babel/pull/5813) needs review
-
-### Typescript in Babylon
-
-Andy's PRs: https://github.com/babel/babylon/pull/523, https://github.com/babel/babel/pull/5856
+- Justin's [PR](https://github.com/babel/babel/pull/5813) needs review.
 
 ### Priority Topics
 
