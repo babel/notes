@@ -14,6 +14,8 @@ We also have an archive of the rooms using slackarchive: https://babeljs.slackar
 
 ## Meetings
 
+* [June 21](https://github.com/babel/notes/blob/master/2017-06/june-21.md) ([discuss](https://github.com/babel/notes/pull/23))
+
 * [June 14](https://github.com/babel/notes/blob/master/2017-06/june-14.md) ([discuss](https://github.com/babel/notes/pull/22))
 
 * [June 7](https://github.com/babel/notes/blob/master/2017-06/june-07.md) ([discuss](https://github.com/babel/notes/pull/21))
