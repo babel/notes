@@ -12,7 +12,7 @@
  
 ## Actions
  
-- [ ] (Nathan) Publish meeting notes.
+- [x] (Nathan/Henry) Publish meeting notes.
  
 ## Discussion
 
@@ -66,7 +66,7 @@
 > https://twitter.com/left_pad/status/876881456517263360
 
 - We should to have one place to show the progress of Babel on TC39 proposals.
-- https://github.com/babel/proposals just copy-pasted at the moment.
+- https://github.com/babel/proposals: (just copy-pasted at the moment).
 - Make it easier to track (make an meta-issue for each proposal instead of one in babylon/babel?)
 - Sergey, making something that is more like compat-table 2.0 (at some point)
   - Link to test262 tests https://twitter.com/left_pad/status/876910325815287809
