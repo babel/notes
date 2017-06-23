@@ -75,8 +75,8 @@
 ### Updates
 
 - BigInt: @wdhorton has a [Babylon PR](https://github.com/babel/babylon/pull/588) open.
-- Class Fields Updates: Karl as a branch with some initial work on it (not a PR yet)
-- Decorators: Peeyush has a [Babylon PR](https://github.com/babel/babylon/pull/587) ready.
+- Class Fields Updates: Karl as a branch with some initial work on it (not a PR yet) and a new [parser PR](https://github.com/babel/babylon/pull/589).
+- Decorators: Peeyush has a [Babylon PR](https://github.com/babel/babylon/pull/587) ~~ready~~ merged! Follow up [PR](https://github.com/babel/babylon/pull/590).
 - Optional Chaining: Justin's [PR](https://github.com/babel/babel/pull/5813) needs review.
 
 ### Priority Topics
