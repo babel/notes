@@ -21,7 +21,7 @@
 - Need reviewers.
 - https://github.com/babel/babel/pull/5842/
 
-### Inline Parameters
+### Inline Parameters (PR)
 
 - https://github.com/babel/babel/pull/5751 by @peey
 - Moves the parameters into the function body so that the normal rest spread can be reused.
@@ -46,10 +46,10 @@
 ### babel-eslint
 
 - Daniel already made a [PR](https://github.com/babel/babel-eslint/pull/489) to use the ESTree plugin!
-  - After making this change we could move the code from Babylon and out of babel-core.
-- ESLint itself has a [PR](https://github.com/eslint/eslint/pull/8755) to make the integration easier
+  - Removes a lot of code in `babel-eslint` now that Babylon handles it.
+- ESLint has a [PR](https://github.com/eslint/eslint/pull/8755) to make the integration easier
 and remove our monkeypatching.
-  - ESLint uses [eslint-scope](https://github.com/eslint/eslint-scope) (a fork of [escope](https://github.com/estools/escope)), most modules don't require a specific module and then runtime patch it.
+  - ESLint uses [eslint-scope](https://github.com/eslint/eslint-scope) (a fork of [escope](https://github.com/estools/escope)). Most modules don't require a specific module and then runtime patch it.
   - Expose a scope key, and have an actual scope API.
   - babel-eslint changes the default config, sometime assumes script vs. module sourceType.
   - Should probably keep the config that they use for eslint.
