@@ -48,7 +48,7 @@
 - Merged a [PR](https://github.com/babel/babel-eslint/pull/489) from Daniel that lets us remove a lot of code from `babel-eslint` by using Babylon's ESTree plugin.
 - ESLint has a [PR](https://github.com/eslint/eslint/pull/8755) to make parser integration easier by exposing an API for handling scope analysis and AST traversal. This should let us remove even more code out of `babel-eslint`.
   - Currently, `babel-eslint` changes the default config and sometimes assumes script vs. module sourceType. We should figure out if we can avoid this.
-  - Possibly add another Babylon plugin for eslint so that we don't have to mutate the AST afterward, effectively making `babel-eslint` _really_ basic.
+  - Possibly add another Babylon plugin for ESLint so that we don't have to mutate the AST afterward, effectively making `babel-eslint` a minimal wrapper.
 - We should set up additional conversations with the ESLint team.
 
 ### Meeting Times
