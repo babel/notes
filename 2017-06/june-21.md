@@ -1,4 +1,4 @@
-# Babel Team Meeting - 2017-06-21
+# Babel Team Meeting - 2017-06-21 ([discuss](https://github.com/babel/notes/pull/23))
    
 ## Attendees
 - Henry Zhu
