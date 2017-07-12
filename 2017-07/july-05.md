@@ -28,7 +28,6 @@ Three outstanding PRs to finish the effort of nominal TypeScript support in Babe
   - Builds off the previous two to output TypeScript as JavaScript.
   - Doesn't do type checking.
   - Has limitations because it doesn't have type information (no `namespace` or `const enum`).
-  - Neat: two Typescript transpilers!
 
 There are additional maintenance costs but we expect that we will continue to see contributions from Microsoft. In original discussion with Microsoft the goal was to keep the surface area minimal as TypeScript doesn't add a lot of syntax. Precedent as well for adopting these things with Flow.
 
