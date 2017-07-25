@@ -1,6 +1,6 @@
 # Babel Notes
 
-Currently, we do video chat on Wednesdays at 9:00 AM EST. (Planning on switching the times every other meeting to fit everyone around the world)
+Currently, we do video chat on Wednesdays at 9:00 AM EST and 12:00 PM EST (switching between the times every other week).
 
 New notes are added as pull requests (watch the repo!): feel free to comment on them!
 
@@ -12,7 +12,15 @@ Most of our discussions happen in the [#development](https://babeljs.slack.com/m
 
 We also have an archive of the rooms using slackarchive: https://babeljs.slackarchive.io/development/
 
-## Meetings
+## Recent Meetings
+
+* [July 19](https://github.com/babel/notes/blob/master/2017-07/july-19.md) ([discuss](https://github.com/babel/notes/pull/27))
+
+* [July 12](https://github.com/babel/notes/blob/master/2017-07/july-12.md) ([discuss](https://github.com/babel/notes/pull/26))
+
+* [July 5](https://github.com/babel/notes/blob/master/2017-07/july-05.md) ([discuss](https://github.com/babel/notes/pull/25))
+
+* [June 28](https://github.com/babel/notes/blob/master/2017-06/june-28.md) ([discuss](https://github.com/babel/notes/pull/24))
 
 * [June 21](https://github.com/babel/notes/blob/master/2017-06/june-21.md) ([discuss](https://github.com/babel/notes/pull/23))
 
