@@ -14,7 +14,7 @@
 
 - Babel 7 Release?
   - When to do a beta and actively ask projects to switch, and actual release.
-  - How to we handle the changelog, and codemods for all breaking changes, make the transition simple for everyone.
+  - How do we handle the changelog, and codemods for all breaking changes? We want to make the transition simple for everyone.
   - Was thinking about the flow from proposal -> in browsers and how Babel fits in.
       - Example: When the proposal spec changes, Babel needs to make the changes in a major version bump, update stage presets, deprecate the old package, create a codemod to automate the move, update docs + recommendations so that everyone is on the latest spec.
 - Plugin options: loose/spec/normal - how to make this better? How do options get used in presets? 
@@ -29,7 +29,7 @@
 - Nail down the scope of Babel 7, not really about time but scope creep (easy to do in OSS).
 - Update [milestone](https://github.com/babel/babel/milestone/9) to reflect actual tasks for Babel 7, and move the rest to post launch/7.x
 - Beta: make one of these ASAP, can use this to determine the upgrade guide/codemods required for majority of users. We can ask plugin authors to update during this time (make their own beta release).
-  - Aside: would be amazing if we could release the plugins at the same time as Babel itself is released so that the transition is seamless. I guess it would be better if plugins could just support both versions for a period (maybe no changes are necessary for most).
+  - Aside: would be amazing if we could release the plugins at the same time as Babel itself is released so that the transition is seamless. It would be better if plugins could just support both versions for a period (maybe no changes are necessary for most).
 - RC: Once we have released the beta for a few weeks we can do an RC and then after a week or two do the actual release if nothing major comes up.
 
 ## Old stuff
