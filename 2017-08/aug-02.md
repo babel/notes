@@ -16,7 +16,7 @@ Babel Team Meeting - 2017-08-02
 Babel 7 tasks for beta: https://github.com/babel/babel/milestone/9 (not that many)
 
 - Made https://github.com/babel/notes/issues/30 to check meta issues for those upgrading.
-- Release the beta after merging the rest of the milestone PRs (and testing in Babel itself for regressions). I'l update the Behance apps as well and then we can broadcast.
+- Release the beta after merging the rest of the milestone PRs (and testing in Babel itself for regressions). Henry will update the Behance apps as well and then we can broadcast.
 - Reach out to plugin authors to upgrade and leave feedback, work with the well known projects to upgrade beforehand
 
 ## Other Topics
