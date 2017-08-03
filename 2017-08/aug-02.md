@@ -32,3 +32,4 @@ Babel 7 tasks for beta: https://github.com/babel/babel/milestone/9 (not that man
   - https://github.com/babel/babel/pull/6029 depends on this PR
 - https://github.com/babel/babel.github.io/pull/1279 Peeyush's blog post after I finally write the SoC one
 - https://github.com/babel/babel/pull/5971 babel-types refactor/fixes
+- https://github.com/babel/babylon/pull/178 - better syntax errors from Babel
