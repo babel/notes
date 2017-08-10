@@ -9,7 +9,9 @@ Babel Team Meeting - 2017-08-09
 - Kara
 - Emma
 
-> TODO
+## Focus: Babel 7 Beta
+
+> Review https://github.com/babel/babel/milestone/9
 
 - Henry: last 2 issues in the milestone by justin: babel-types refactor, object-rest-spread refactor.
 - Peeyush: have a branch for decorators, https://github.com/peey/babel/blob/decorators-2-transform-wip/packages/babel-plugin-transform-decorators-2/src/index.js
