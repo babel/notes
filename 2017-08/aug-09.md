@@ -21,3 +21,24 @@ Babel Team Meeting - 2017-08-09
 - Brian: make sure the documentation is ready for 7.0
 - Henry: learned that more well defined issues -> quick contributions!
 - Henry: will finish the Summer of Code post today and make a PR, then post Peeyush's after. Karl will make a PR for his own post too!
+- Henry: now that we have like 1-2prs left, we should switch all the repos from 7.0 to master
+
+## Issues
+
+- Had two PRs recently about nodes being reused and having problems (not using `t.clone`) https://github.com/babel/babel/pull/6046, https://github.com/babel/babel/pull/6054 - this has been an issue for a while and comes up every once in a while. Should figure out a solution for this.
+
+## Updates
+- Merged test262 PR into babylon!
+- Made a new alpha.19 release (includes typescript)! updated Behance already too!
+- Made issues for the TC39 updates https://github.com/babel/proposals/issues/19
+- Released major version of integrations with `gulp`, `rollup`, `grunt` that now require `babel-core` as a peerDependency
+- Using yarn workspaces in babel/babili so `make bootstrap` should be faster now (requires new yarn version)
+
+## PRs to Review
+
+- Milestone PRs: https://github.com/babel/babel/milestone/9
+- React rewrite of REPL! https://github.com/babel/babel.github.io/pull/1297
+- Revitalized the syntax error PR https://github.com/babel/babylon/pull/658
+- Move babel-standalone into the monorepo https://github.com/babel/babel/pull/6029
+  - https://github.com/babel/babel.github.io/pull/1284
+- Simpler import syntax output https://github.com/babel/babel/pull/6039
