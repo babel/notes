@@ -25,9 +25,11 @@
 
 Just need to review 1 PR: https://github.com/babel/babel/milestone/9. Everyone is having fun getting distracted by other things 🙂
 
+---
+
 ## Project Updates
 
-## Team
+### Team
 - Added @bvaughn to the Website team, @Daniel15 as admin for website
 - Added @nicolo-ribaudo to team last week
 
