@@ -17,6 +17,9 @@
 ## PRs to look at
 - https://github.com/babel/babel/pull/5710
 - https://github.com/babel/babel/pull/4935
+- Private methods parser PR: https://github.com/babel/babylon/pull/703 by Karl
+- Decorators transform PR: https://github.com/babel/babel/pull/6107 by Peeyush
+- Private class props PR: https://github.com/babel/babel/pull/6120 by Justin
 
 ## Discussion
 - [ ] Need to move the `7.0` branch to become `master`, and make `master` into `6.x` (same with babel-preset-env)
