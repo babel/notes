@@ -12,9 +12,13 @@ Most of our discussions happen in the [#development](https://babeljs.slack.com/m
 
 We also have an archive of the rooms using slackarchive: https://babeljs.slackarchive.io/development/
 
-## Recent Meetings
+## 2017
 
-* [Aug 9](https://github.com/babel/notes/blob/master/2017-08/aug-09.md) ([discuss](https://github.com/babel/notes/pull/30))
+* [Aug 30](https://github.com/babel/notes/blob/master/2017-08/aug-30.md) ([discuss](https://github.com/babel/notes/pull/31))
+
+* Aug 23: Skipped!
+
+* [Aug 16](https://github.com/babel/notes/blob/master/2017-08/aug-16.md) ([discuss](https://github.com/babel/notes/pull/30))
 
 * [Aug 2](https://github.com/babel/notes/blob/master/2017-08/aug-02.md) ([discuss](https://github.com/babel/notes/pull/29))
 
@@ -37,7 +41,7 @@ We also have an archive of the rooms using slackarchive: https://babeljs.slackar
 * [May 31](https://github.com/babel/notes/blob/master/2017-05/may-31.md) ([discuss](https://github.com/babel/notes/pull/20))
 
 * [April 8](https://github.com/babel/notes/blob/master/2017-04/april-08.md) ([discuss](https://github.com/babel/notes/pull/19))
- 
+
 * [Feb 22](https://github.com/babel/notes/blob/master/2017-02/feb-22.md) ([discuss](https://github.com/babel/notes/pull/15))
 
 * [January 6/7](https://github.com/babel/notes/blob/master/2017-01/jan-06.md) ([discuss](https://github.com/babel/notes/pull/11))
@@ -46,21 +50,3 @@ We also have an archive of the rooms using slackarchive: https://babeljs.slackar
 
 > When we didn't have "meetings", but just notes to discuss development.
 > These notes started July 30, 2016.
-
-#### October
-
-* [October 14](https://github.com/babel/notes/blob/master/2016-10/october-14.md) ([discuss](https://github.com/babel/notes/pull/7))
-
-#### September
-
-* [September 19](https://github.com/babel/notes/blob/master/2016-09/september-19.md) ([discuss](https://github.com/babel/notes/pull/6))
-
-#### August
-
-* [August 1](https://github.com/babel/notes/blob/master/2016-08/august-01.md) ([discuss](https://github.com/babel/notes/pull/3))
-* [August 28](https://github.com/babel/notes/blob/master/2016-08/august-28.md) ([discuss](https://github.com/babel/notes/pull/5))
-
-#### July
-
-* [July 31](https://github.com/babel/notes/blob/master/2016-07/july-31.md) ([discuss](https://github.com/babel/notes/pull/1))
-
