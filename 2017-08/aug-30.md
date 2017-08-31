@@ -21,7 +21,7 @@
 - Decorators transform PR: https://github.com/babel/babel/pull/6107 by Peeyush
 - Private class props PR: https://github.com/babel/babel/pull/6120 by Justin
 
-## Discussion
+## Discussion (mostly maintainence related)
 - [x] Need to move the `7.0` branch to become `master`, and make `master` into `6.x` (same with babel-preset-env). Done in https://github.com/babel/babel/commit/0189b387026c35472dccf45d14d58312d249f799 in Babel.
   - Lesson learned: don't many longstanding branches (already knew this), and just make `master` what everyone is working on and make separate branches for backports `6.x`, etc. Also don't do backports: time to cherry pick, deploy, backport bug fixes!?, maintain, etc.
 - [ ] We should move babylon back into the monorepo? Looks like @danez is looking into this.
@@ -29,6 +29,7 @@
   - It's true the parser is very separate from the rest, but in the end it's specific to Babel else someone can else acorn/esprima/etc. Why have a one-off package; if it's hard to release then it's reason to fix/not use Lerna to release
   - Issue: may want to transfer the git history, and will need to merge the issue labels and issues and prs eventually.
   - Will need to merge the testing frameworks since babylon uses ava, babel uses mocha, and some wanted to use jest (but there was previously issues of it being slow/hard to debug)
+  - Need to move the issues over, PRs eventually, and also issue label consolidation (rethink that possibly)
 - We should move [babel-preset-env](https://github.com/babel/babel-preset-env) in as well: we weren't sure since it was an experiment but now it makes sense as it's stable now.
 - `babel-standalone` build is slow, may be a combination of having to use webpack on it + duplicate packages somewhere.
 - Discussion about having an async traversal/visitor: to do this would need to make a breaking change since supporting both sync/async would be hard to maintain. Goes back to Logan's older plan to separate plugins from traversal: https://github.com/babel/notes/blob/master/2016-08/august-01.md#proposed-resolution. Having an async mode would also mean it wouldn't work with `babel-register` either.
