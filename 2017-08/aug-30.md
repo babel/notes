@@ -22,7 +22,8 @@
 - Private class props PR: https://github.com/babel/babel/pull/6120 by Justin
 
 ## Discussion
-- [ ] Need to move the `7.0` branch to become `master`, and make `master` into `6.x` (same with babel-preset-env)
+- [x] Need to move the `7.0` branch to become `master`, and make `master` into `6.x` (same with babel-preset-env). Done in https://github.com/babel/babel/commit/0189b387026c35472dccf45d14d58312d249f799 in Babel.
+  - Lesson learned: don't many longstanding branches (already knew this), and just make `master` what everyone is working on and make separate branches for backports `6.x`, etc. Also don't do backports: time to cherry pick, deploy, backport bug fixes!?, maintain, etc.
 - [ ] We should move babylon back into the monorepo? Looks like @danez is looking into this.
   - Reasons: easier release cycle, less chance of breaking stuff (have to have a script in this repo just for the smoke test against babel itself which is unnecessary), easier to write code to transform what is newly parsed (this is forgotten a lot actually), no need to redirect issues to another repo, duplicate issues/labels.
   - It's true the parser is very separate from the rest, but in the end it's specific to Babel else someone can else acorn/esprima/etc. Why have a one-off package; if it's hard to release then it's reason to fix/not use Lerna to release
