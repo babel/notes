@@ -12,7 +12,7 @@
 ## Priority: Babel 7 Beta
 
 - Remember to label things as breaking so we can document them in the blog post. https://github.com/babel/babel/issues?q=label%3A%22tag%3A+breaking+change%22+is%3Aclosed
-- Not much to talk about here! Because it's taking so long, we will just publish a new alpha (alpha.20), and then beta soon after assuming no issues to get the ball rolling.
+- Not much to talk about here! Because it's taking so long, we will just publish a new alpha ([alpha.20](https://github.com/babel/babel/releases/tag/v7.0.0-alpha.20)), and then beta soon after assuming no issues to get the ball rolling.
  
 ## PRs to look at
 - https://github.com/babel/babel/pull/5710
