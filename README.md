@@ -14,6 +14,10 @@ We also have an archive of the rooms using slackarchive: https://babeljs.slackar
 
 ## 2017
 
+* [Sept 13](https://github.com/babel/notes/blob/master/2017-09/sept-13.md) ([discuss](https://github.com/babel/notes/pull/35))
+
+* Sept 6: Skipped!
+
 * [Aug 30](https://github.com/babel/notes/blob/master/2017-08/aug-30.md) ([discuss](https://github.com/babel/notes/pull/31))
 
 * Aug 23: Skipped!
