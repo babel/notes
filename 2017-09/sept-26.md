@@ -1,6 +1,7 @@
 # Babel Team Meeting - 2017-09-26
 
 > No meeting since some of us we're at TC39/busy, so writing down what we need to work on.
+> If anyone wants to help out with one of these, please reach out!
 
 ### Updates
 
@@ -16,6 +17,7 @@
   * syntax- => use a proposal without transforming
   * proposal- => use a proposal with transforming
   * transform- => use a standard feature with transforming
+- [ ] Run babel on itself before publish: https://github.com/babel/babel/issues/6134
 
 ### Babel 7 Work
 
