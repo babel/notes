@@ -1,4 +1,4 @@
-# Babel Team Meeting - 2017-09-26
+# Babel Team Meeting - 2017-09-27
 
 > No meeting since some of us we're at TC39/busy, so writing down what we need to work on.
 > If anyone wants to help out with one of these, please reach out!
