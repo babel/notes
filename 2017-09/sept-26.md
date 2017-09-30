@@ -6,6 +6,7 @@
 
 - [x] Did a beta.2
 - [x] Henry/Justin at TC39 https://github.com/babel/proposals/issues/28
+  - [x] Already landed "Throw Expressions"
 
 ### Priorities (mostly meta/infra)
 
