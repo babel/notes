@@ -1,4 +1,4 @@
-# Babel Team Meeting - 2017-10-25
+# Babel Weekly Notes - 2017-10-25
 
 ## News
 
