@@ -3,7 +3,8 @@
 ## News
 
 > Logan/Henry were at Chrome Dev Summit! (https://twitter.com/left_pad/status/922507305874104320)  
-> Sven at ReactiveConf (https://twitter.com/svensauleau/status/923210175011590146)
+> Sven at ReactiveConf (https://twitter.com/svensauleau/status/923210175011590146)  
+> Added [@azz](https://github.com/azz), [@keithamus](https://github.com/keithamus), [@Andarist](https://github.com/Andarist) to the team
 
 ## Done
 
