@@ -4,7 +4,7 @@ Currently, we do video chat on Wednesdays at 9:00 AM EST and 12:00 PM EST (switc
 
 New notes are added as pull requests (watch the repo!): feel free to comment on them!
 
-> Team: https://github.com/babel/babel#team
+To know about volunteers, Please check out our [team page](https://babeljs.io/team)!
 
 ## Communication
 
