@@ -6,7 +6,10 @@
 - Sven at ReactiveConf (https://twitter.com/svensauleau/status/923210175011590146)  
 - Added [@azz](https://github.com/azz), [@keithamus](https://github.com/keithamus), [@Andarist](https://github.com/Andarist) to the team  
 - Also added [@bmeurer](https://github.com/bmeurer) (other v8 members are already collaborators) since already made like 5 perf PRs (https://github.com/babel/babel/pull/6581)
-
+- Probably last betas, then do RCs for regressions (and ask for wider use) and release?
+  - Need to think about the codemods for upgrading in the meantime.. (also an opportunity to help)
+  - Don't ask for a backport, no time/resources/etc 🙂.
+  
 ## Done
 
 - [x] Move to scoped packages https://github.com/babel/babel/pull/6495
@@ -31,8 +34,6 @@ When a proposal becomes Stage 4, we will signify the change by renaming it back 
 - [ ] Still need to move babel-preset-env issues/PRs over to the main repo
 - [ ] Move babylon into the monorepo https://github.com/babel/babel/pull/6484
 - [ ] Renamed all plugins to not need have a year prefix like `-es2015-`, `-es3-`: https://github.com/babel/babel/pull/6575
-- Probably 1/2 more betas, then do RCs for regressions (and ask for wider use) and release?
-  - Need to think about the codemods for upgrading in the meantime.. (also an opportunity to help)
 
 ## Waiting On
 
