@@ -29,6 +29,7 @@ When a proposal becomes Stage 4, we will signify the change by renaming it back 
 
 - [ ] Still need to move babel-preset-env issues/PRs over to the main repo
 - [ ] Move babylon into the monorepo https://github.com/babel/babel/pull/6484
+- [ ] Renamed all plugins to not need have a year prefix like `-es2015-`, `-es3-`: https://github.com/babel/babel/pull/6575
 
 ## Waiting On
 
