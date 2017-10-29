@@ -5,6 +5,7 @@
 > Logan/Henry were at Chrome Dev Summit! (https://twitter.com/left_pad/status/922507305874104320)  
 > Sven at ReactiveConf (https://twitter.com/svensauleau/status/923210175011590146)  
 > Added [@azz](https://github.com/azz), [@keithamus](https://github.com/keithamus), [@Andarist](https://github.com/Andarist) to the team
+> Also added [@bmeurer](https://github.com/bmeurer) (other v8 members are already collaborators) since already made like 5 perf PRs (https://github.com/babel/babel/pull/6581)
 
 ## Done
 
