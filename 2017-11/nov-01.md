@@ -21,7 +21,7 @@
     - https://twitter.com/bmeurer/status/927500214436589568
     - https://twitter.com/v8js/status/927572065598824448
 
-## Todos
+## Todos (via Logan)
 - Caching API? https://github.com/babel/babel/issues/5372
 - Get decorators working properly: https://github.com/babel/babel/pull/6107
 - Do we just make `"sourceType" :"ambiguous"` the default for now?: https://github.com/babel/babel/issues/6242
@@ -30,3 +30,5 @@
   - Is it even worth having the name `babel-polyfill` if it currently is just `core-js` + `regenerator-runtime`?
   - Ideally preset-env would allow you to substitute any polyfill in, not hardcoded to `core-js` itself either
   - How long do we wait on the [regenerator](https://github.com/facebook/regenerator) re-license, do we just make it opt-in?
+
+Please contact/comment if you have opinions/suggestions for these efforts ^?
