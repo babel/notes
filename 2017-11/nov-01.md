@@ -8,7 +8,7 @@
 - Released a 7.0.0-beta.31 but still working on the post/changelog
 
 ## Todos
-- Caching API?
+- Caching API? https://github.com/babel/babel/issues/5372
 - Get decorators working properly: https://github.com/babel/babel/pull/6107
 - Do we just make `"sourceType" :"ambiguous"` the default for now?: https://github.com/babel/babel/issues/6242
 - Do we resolve `.babelrc` files in node_modules, or use the cwd or something?
