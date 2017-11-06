@@ -13,7 +13,7 @@
   - Removed `-es2015-` from packages like `@babel/plugin-transform-classes` -> `@babel/plugin-transform-es2015-classes`
   - Stage presets have `loose` and `useBuiltIns` options
   - JSX fragment support `<>`
-  - `babel-template` is faster, more options
+  - [`babel-template`](https://github.com/babel/babel/blob/master/packages/babel-template) is faster, easier to use
   - v7 is ~60% than v6 now: https://twitter.com/left_pad/status/927554660508028929
 
 ## Todos
