@@ -2,7 +2,7 @@
 
 ## News
 
-- [Donation for $1k/month](https://twitter.com/left_pad/status/923696620935421953) (any many other projects) from fbOpenSource! Believe or not, our previous highest donation was actually only $100/month!
+- [Donation for $1k/month](https://twitter.com/left_pad/status/923696620935421953) (and many other projects) from fbOpenSource! Believe it or not, our previous highest donation was actually only $100/month!
   - [Tweet](https://twitter.com/opencollect/status/923707285674721280) from Open Collective
   - We plan on using the funds to send our core team members to TC39 (The meetings are every 2 months for the cost of hotel/flight/food).
   - Ideally we would use these funds to be able to support someone full time, but we even aren't close to that amount yet. Again, talk to us if you believe you can change that!
