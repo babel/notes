@@ -2,10 +2,19 @@
 
 ## News
 
-- [Donation for $1k/month](https://twitter.com/left_pad/status/923696620935421953) (any many other projects) from fbOpenSource!
-  - [tweet](https://twitter.com/opencollect/status/923707285674721280) from Open Collective
+- [Donation for $1k/month](https://twitter.com/left_pad/status/923696620935421953) (any many other projects) from fbOpenSource! Believe or not, our previous highest donation was actually only $100/month!
+  - [Tweet](https://twitter.com/opencollect/status/923707285674721280) from Open Collective
+  - We plan on using the funds to send our core team members to TC39 (The meetings are every 2 months for the cost of hotel/flight/food).
+  - Ideally we would use these funds to be able to support someone full time, but we even aren't close to that amount yet. Again, talk to us if you believe you can change that!
 - Archived both [babylon](https://github.com/babel/babylon) and [babel-preset-env](https://github.com/babel/babel-preset-env) and moved both packages into the main monorepo
-- Released a 7.0.0-beta.31 but still working on the post/changelog
+- Released a [7.0.0-beta.31](https://github.com/babel/babel/releases/tag/v7.0.0-beta.31) but still working on the post/changelog
+  - Scoped packages: `babel-core` -> `@babel/core`
+  - Top level packages, plugins, presets have a peerDep: `@babel/core`
+  - Removed `-es2015-` from packages like `@babel/plugin-transform-classes` -> `@babel/plugin-transform-es2015-classes`
+  - Stage presets have `loose` and `useBuiltIns` options
+  - JSX fragment support `<>`
+  - `babel-template` is faster, more options
+  - v7 is ~60% than v6 now: https://twitter.com/left_pad/status/927554660508028929
 
 ## Todos
 - Caching API? https://github.com/babel/babel/issues/5372
