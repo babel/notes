@@ -14,7 +14,12 @@
   - Stage presets have `loose` and `useBuiltIns` options
   - JSX fragment support `<>`
   - [`babel-template`](https://github.com/babel/babel/blob/master/packages/babel-template) is faster, easier to use
-  - v7 is ~60% than v6 now: https://twitter.com/left_pad/status/927554660508028929
+  - v7.0.0-beta.31 is ~60% than v6 now: https://twitter.com/left_pad/status/927554660508028929
+    - https://twitter.com/rauchg/status/924349334346276864
+    - https://twitter.com/bmeurer/status/924724880263798784
+    - https://twitter.com/bmeurer/status/927224716674428928
+    - https://twitter.com/bmeurer/status/927500214436589568
+    - https://twitter.com/v8js/status/927572065598824448
 
 ## Todos
 - Caching API? https://github.com/babel/babel/issues/5372
