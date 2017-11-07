@@ -7,6 +7,7 @@
   - Having commits or not doesn't mean much: https://twitter.com/aweary/status/926908058076299264
   - Having 1 repo in a language/framework doesn't mean I want to work in that language or care
   - etc
+- Reminder recruiters of economic development benefits (and therefore economic benefits) of open source
 - Explain ways that companies that support open source and why that is a positive perk that we are going to be looking out for
   - Donations to projects that are used (instead of just saying "we use Babel, JSX, ES6, etc", wouldn't it be amazing to see "we have been sponsoring Babel with $10k/month for the last year because we care about supporting projects that we fundamentally rely on"
   - Developer time: "We contribute to open source" vs. "we allow our developers to: spend 20% time, or 1 day a week, or weekly hackathons, or employ a maintainer of Babel"
