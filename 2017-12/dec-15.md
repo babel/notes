@@ -1,6 +1,6 @@
 Babel Weekly Notes - 2017-12-15
 
-> Haven't done a post in a while so will try to add things in the last month.
+> Haven't done a post in a while so will try to add things in the last month instead of the last week.
 
 ## News
 
@@ -18,7 +18,7 @@ Babel Weekly Notes - 2017-12-15
 > I found out there is an event called [FieriCon](http://www.fiericon.com/) and it was this past Nov 18.
 > [no one wants to contribute to Babel 😛](https://twitter.com/AdamRackis/status/931195056479965185)
 
-## Team Changes
+## Team Updates
 
 - Added @angus-c as a team member. He just wrote our [song](https://twitter.com/left_pad/status/938956634361094146).
 
@@ -79,4 +79,4 @@ Made an issue to talk about making more representative Babel benchmarks to test 
 > Old todos: https://github.com/babel/notes/blob/master/2017-11/nov-01.md
 
 > Do we resolve .babelrc files in node_modules, or use the cwd or something? https://github.com/babel/babel/issues/6766
-> How do we handle polfills better
+> How do we handle polfills better?
