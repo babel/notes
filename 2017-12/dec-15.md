@@ -6,7 +6,7 @@ Babel Weekly Notes - 2017-12-15
 
 - I [posted](https://twitter.com/left_pad/status/938041651452416004) I was going to step back from working on Babel as much, so going to do more of a PM role and focus on my health.
   - We're always looking for more maintainers/collaborators so hopefully as I step down others will step up 🤗
-  - We already have a lot of amazing [people](babeljs.io/team) working on this project now, but we'll need to continue to grow as people step down for any reason, hopefully can build more connections with other projects/companies and continue to participate in efforts like [Summer of Code](https://babeljs.io/blog/2017/08/09/babel-and-summer-of-code).
+  - We already have a lot of amazing [people](https://babeljs.io/team) working on this project now, but we'll need to continue to grow as people step down for any reason, hopefully can build more connections with other projects/companies and continue to participate in efforts like [Summer of Code](https://babeljs.io/blog/2017/08/09/babel-and-summer-of-code).
 - I did AMA on [dev.to](https://twitter.com/ThePracticalDev/status/941007481987268609), and still answering some of the questions now!
 - Also did a podcast on [The Web Platform Podcast](https://twitter.com/TheWebPlatform/status/940855461229793280) about Babel.
 - [Regenerator](https://github.com/facebook/regenerator) was released under the [MIT license](https://twitter.com/left_pad/status/938825429955125248)!!! And we released a beta.35 for that.
