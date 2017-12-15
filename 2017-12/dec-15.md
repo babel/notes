@@ -44,7 +44,7 @@ Basically it rewrites the module to only run the imported file when it's needed.
 
 ### https://github.com/babel/babel/issues/4480
 
-### We aren't deprecating the `env` option anymore
+### ]We aren't deprecating the `env` option anymore #6905](https://github.com/babel/babel/pull/6905)
 
 Just [fixing the merging behavior](https://twitter.com/left_pad/status/936687774098444288) instead.
 
@@ -55,6 +55,47 @@ You can now use `envName: "something"` in `.babelrc` or pass via cli `babel --en
 ### WIP 7.0 blog post [babel/website#1453](https://github.com/babel/website/pull/1453)
 
 Still need to finish this up, but this will explain some of the other changes we are making in v7
+
+### Prep for async plugins/handlers [#6818](https://github.com/babel/babel/pull/6818)
+
+No implementation but future proofing for later support for async plugins.
+
+### [Port of `babel-plugin-transform-for-of-as-array`](https://github.com/babel/babel/pull/6914)
+
+`["transform-for-of", { "assumeArray": true }]` to make all `for-of` loops output as regular arrays
+
+Ref https://twitter.com/LeaVerou/status/936709376005607424, https://twitter.com/left_pad/status/936721918840983554
+
+```js
+for (const elm of array) {
+  console.log(elm);
+}
+```
+
+```js
+for (let _i = 0, _array = array; _i < _array.length; _i++) {
+  const elm = _array[_i];
+  console.log(elm);
+}
+```
+
+We already have inference for code like: `var arr = []; for (const elm of arr) {`.
+
+### [Exclude `transform-typeof-symbol` in `loose` mode for `preset-env` #6831](https://github.com/babel/babel/pull/6831)
+
+```
+[
+  "env",
+  {
+    "loose": true,
+    "exclude": [
+      "transform-es2015-typeof-symbol" // on by default now
+    ],
+  }
+]
+```
+
+A lot of projects are already doing this, so we should just make it a default.
 
 ## Notable Issues
 
