@@ -16,11 +16,15 @@ Babel Weekly Notes - 2017-12-15
 
 > Instead of these meetings, some of us played some Mario Kart instead (#mariokart room in Slack) 🙂
 > I found out there is an event called [FieriCon](http://www.fiericon.com/) and it was this past Nov 18.
-> [No one wants to contribute to Babel 😛](https://twitter.com/AdamRackis/status/931195056479965185)
+> [no one wants to contribute to Babel 😛](https://twitter.com/AdamRackis/status/931195056479965185)
 
 ## Team Changes
 
 - Added @angus-c as a team member. He just wrote our [song](https://twitter.com/left_pad/status/938956634361094146).
+
+> https://medium.com/@angustweets/hallelujah-in-praise-of-babel-977020010fad
+
+Please check it out and send us a recording, maybe we can play in on the website or something?
 
 ## Notable PRs
 
@@ -40,9 +44,13 @@ Basically it rewrites the module to only run the imported file when it's needed.
 
 ### https://github.com/babel/babel/issues/4480
 
-### We [aren't deprecating the `env` option](https://twitter.com/left_pad/status/936687774098444288) anymore and just fixing/standardizing the merging behavior instead.
+### We aren't deprecating the `env` option anymore
 
-### https://github.com/babel/babel/pull/6834
+Just [fixing the merging behavior](https://twitter.com/left_pad/status/936687774098444288) instead.
+
+### [Expose `envName` as a Babel option #6834](https://github.com/babel/babel/pull/6834)
+
+You can now use `envName: "something"` in `.babelrc` or pass via cli `babel --envName=something` instead of having to use `process.env.BABEL_ENV` or `process.env.NODE_ENV`
 
 ### WIP 7.0 blog post [babel/website#1453](https://github.com/babel/website/pull/1453)
 
@@ -56,6 +64,19 @@ We really want to update the website to add: translation + versioned documentati
 
 ### https://github.com/MatAtBread/fast-async/issues/46
 
-### https://github.com/babel/notes/issues/44
+Working with @matAtWork to merge the `fast-async` Babel plugin which transforms async functions into Promises into the main Babel plugin. This way you will have the option of using `regenerator`, `async-to-generator`, or `async-to-promise`. And maybe we just make them all into a plugin called like `@babel/plugin-async-functions` and then create 3 options. I would like to default to the `Promise` version if we get it robust enough.
 
-### https://github.com/v8/web-tooling-benchmark/issues/27
+### Babel 7 Upgrade tool [babel/notes#44](https://github.com/babel/notes/issues/44)
+
+Want to make a tool that will upgrade your JS, your .babelrc, and your package.json for Babel 7. We can use `babel-codemod` for the JS files and [golden-fleece](https://twitter.com/Rich_Harris/status/937144688590671873) by Rich for JSON files.
+
+### [More representative Babel flow v8/web-tooling-benchmark#27](https://github.com/v8/web-tooling-benchmark/issues/27)
+
+Made an issue to talk about making more representative Babel benchmarks to test against. Can contribute there!
+
+## Todos
+
+> Old todos: https://github.com/babel/notes/blob/master/2017-11/nov-01.md
+
+> Do we resolve .babelrc files in node_modules, or use the cwd or something? https://github.com/babel/babel/issues/6766
+> How do we handle polfills better
