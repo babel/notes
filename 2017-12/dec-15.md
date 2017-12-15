@@ -1,4 +1,4 @@
-Babel Weekly Notes - 2017-12-15
+## Babel Weekly Notes - 2017-12-15
 
 > Haven't done a post in a while so will try to add things in the last month instead of the last week.
 
