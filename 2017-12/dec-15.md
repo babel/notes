@@ -14,10 +14,9 @@ Babel Weekly Notes - 2017-12-15
 - There was a [TC39 meeting](https://github.com/tc39/agendas/blob/master/2017/11.md) this past month, and we documented the proposal changes [here](https://github.com/babel/proposals/issues/34)!
 - TC39 now has a comprehensive [contributing guide](https://twitter.com/bterlson/status/931586519592087552)
 - The [repl](https://babeljs.io/repl/build/master) supports Flow/TypeScript
-
-> Instead of these meetings, some of us played some Mario Kart instead (#mariokart room in Slack) 🙂
-> I found out there is an event called [FieriCon](http://www.fiericon.com/) and it was this past Nov 18.
-> [no one wants to contribute to Babel 😛](https://twitter.com/AdamRackis/status/931195056479965185)
+- Instead of these meetings, some of us played some Mario Kart instead (#mariokart room in Slack) 🙂  
+- I found out there is an event called [FieriCon](http://www.fiericon.com/) and it was this past Nov 18.  
+- [No one wants to contribute to Babel 😛](https://twitter.com/AdamRackis/status/931195056479965185)
 
 ## Team Updates
 
