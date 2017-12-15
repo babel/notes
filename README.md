@@ -1,6 +1,6 @@
 # Babel Notes
 
-Currently, we do video chat on Wednesdays at 9:00 AM EST and 12:00 PM EST (switching between the times every other week).
+Currently, we do video chat on Wednesdays at 9:00 AM EST and 12:00 PM EST (switching between the times every other week). If we don't meet, I'll just post a summary of what's been going on (notable issues/PRs, etc).
 
 New notes are added as pull requests (watch the repo!): feel free to comment on them!
 
