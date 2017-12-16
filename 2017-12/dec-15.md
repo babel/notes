@@ -44,7 +44,7 @@ Basically it rewrites the module to only run the imported file when it's needed.
 
 ### https://github.com/babel/babel/issues/4480
 
-### ]We aren't deprecating the `env` option anymore #6905](https://github.com/babel/babel/pull/6905)
+### [We aren't deprecating the `env` option anymore #6905](https://github.com/babel/babel/pull/6905)
 
 Just [fixing the merging behavior](https://twitter.com/left_pad/status/936687774098444288) instead.
 
