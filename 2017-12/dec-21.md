@@ -13,6 +13,14 @@
 
 ### [Future of `.babelrc` lookup](https://github.com/babel/babel/issues/6766#issuecomment-352225586)
 
+### [Switch Website framework](https://github.com/babel/website/issues/1485)
+
+I really want translated docs + versioned docs (this is a big issue since the docs are on v6 and yet everyone still wants to use v7). Getting overwhelmed by the people have a lot of trouble using v7 since docs aren't clear or we are in the process of changing things.
+
+### [Upgrade tool](https://github.com/babel/notes/issues/44)
+
+This should also help with ^.
+
 ## Notable PRs
 
 ### [Merging `fast-async` into Babel](https://github.com/babel/babel/pull/7076)
