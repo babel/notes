@@ -9,9 +9,23 @@
 - [Landed `lazy` option for modules-commonjs](https://github.com/babel/babel/pull/6952)
 - [Landed PR for better error messages with syntax errors](https://twitter.com/left_pad/status/942859244759666691)
 
+## Before v7 Final 
+
+1. Caching and invalidation logic in babel-core.
+2. Better story around external helpers.
+3. Either a working decorator implementation, or functional legacy implementation, with clear path to land current spec behavior during 7.x's lifetime.
+  - If we land this after we just need to land [independent + versioned publishing in Lerna](https://github.com/lerna/lerna/issues/1121) so that we can do a decorators major release independent of the rest of the repo.
+4. Either implement or have plan in place for versioning and handling polyfills independently from helpers, so we aren't explicitly tied to `core-js` 2 or 3, since people may have things that depend on one or the other and won't want to load both a lot of the time.
+
 ## Notable Issues
 
+### [`overrides` behavior](https://github.com/babel/babel/issues/5451)
+
+Be able to compile different globs with a separate config (similar to ESLint [overrides](https://eslint.org/docs/user-guide/configuring#configuration-based-on-glob-patterns))
+
 ### [Future of `.babelrc` lookup](https://github.com/babel/babel/issues/6766#issuecomment-352225586)
+
+Probably the only real blocker before a RC version.
 
 ### [Switch Website framework](https://github.com/babel/website/issues/1485)
 
