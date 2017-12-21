@@ -9,13 +9,14 @@
 - [Landed `lazy` option for modules-commonjs](https://github.com/babel/babel/pull/6952)
 - [Landed PR for better error messages with syntax errors](https://twitter.com/left_pad/status/942859244759666691)
 
-## Before v7 Final 
+## Before the v7 Final
+
+Want we want to fix/plan before release.
 
 1. Caching and invalidation logic in babel-core.
 2. Better story around external helpers.
-3. Either a working decorator implementation, or functional legacy implementation, with clear path to land current spec behavior during 7.x's lifetime.
-  - If we land this after we just need to land [independent + versioned publishing in Lerna](https://github.com/lerna/lerna/issues/1121) so that we can do a decorators major release independent of the rest of the repo.
-4. Either implement or have plan in place for versioning and handling polyfills independently from helpers, so we aren't explicitly tied to `core-js` 2 or 3, since people may have things that depend on one or the other and won't want to load both a lot of the time.
+3. Either implement or have plan in place for versioning and handling polyfills independently from helpers, so we aren't explicitly tied to `core-js` 2 or 3, since people may have things that depend on one or the other and won't want to load both a lot of the time.
+4. Either a working decorator implementation, or functional legacy implementation, with clear path to land current spec behavior during 7.x's lifetime. (Need [independent + versioned publishing in Lerna](https://github.com/lerna/lerna/issues/1121))
 
 ## Notable Issues
 
