@@ -8,6 +8,7 @@
 - [Landed the PR to extend built-ins: `class A extends Array {}`](https://github.com/babel/babel/pull/7020)
 - [Landed `lazy` option for modules-commonjs](https://github.com/babel/babel/pull/6952)
 - [Landed PR for better error messages with syntax errors](https://twitter.com/left_pad/status/942859244759666691)
+- Released [7.0-beta.35](https://github.com/babel/babel/releases/tag/v7.0.0-beta.35)
 
 ## Before the v7 Final
 
