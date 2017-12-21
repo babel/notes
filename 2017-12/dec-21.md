@@ -14,7 +14,7 @@
 
 Want we want to fix/plan before release.
 
-1. Caching and invalidation logic in babel-core.
+1. Caching and invalidation logic in `babel-core`.
 2. Better story around external helpers.
 3. Either implement or have plan in place for versioning and handling polyfills independently from helpers, so we aren't explicitly tied to `core-js` 2 or 3, since people may have things that depend on one or the other and won't want to load both a lot of the time.
 4. Either a working decorator implementation, or functional legacy implementation, with clear path to land current spec behavior during 7.x's lifetime. (Need [independent + versioned publishing in Lerna](https://github.com/lerna/lerna/issues/1121))
