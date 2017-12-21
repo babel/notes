@@ -1,5 +1,7 @@
 ## Babel Weekly Notes - 2017-12-21
 
+> Last weeks notes: https://github.com/babel/notes/blob/master/2017-12/dec-15.md
+
 ## News
 
 - [Sven](https://twitter.com/svensauleau) is going to [speak at ReactEurope](https://twitter.com/ReactEurope/status/943792622753247232)
@@ -23,5 +25,3 @@ provided we can add exec tests from Regenerator and from [kneden](https://github
 - Will finally post another blog post before the end of the year: https://github.com/babel/website/pull/1453
 - Explain what we think should be done before an RC release and final
 - Have a better plan for upgrading the ecosystem
-
-> Last weeks notes: https://github.com/babel/notes/blob/master/2017-12/dec-15.md
