@@ -25,3 +25,4 @@ provided we can add exec tests from Regenerator and from [kneden](https://github
 - Will finally post another blog post before the end of the year: https://github.com/babel/website/pull/1453
 - Explain what we think should be done before an RC release and final
 - Have a better plan for upgrading the ecosystem
+- Also end of the year, so probably don't expect too much if everyone is on break!
