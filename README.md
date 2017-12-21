@@ -14,6 +14,8 @@ We also have an archive of the rooms using slackarchive: https://babeljs.slackar
 
 ## 2017
 
+* [Dec 21](https://github.com/babel/notes/blob/master/2017-12/dec-21.md) ([discuss](https://github.com/babel/notes/pull/51))
+
 * [Dec 15](https://github.com/babel/notes/blob/master/2017-12/dec-15.md) ([discuss](https://github.com/babel/notes/pull/49))
 
 * [Nov 1](https://github.com/babel/notes/blob/master/2017-11/nov-01.md) ([discuss](https://github.com/babel/notes/pull/41))
