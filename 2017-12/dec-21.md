@@ -12,7 +12,7 @@
 
 ## Before the v7 Final
 
-Want we want to fix/plan before release.
+We want to fix/plan before release.
 
 1. Caching and invalidation logic in `babel-core`.
 2. Better story around external helpers.
