@@ -6,6 +6,8 @@ As mentioned on Slack, we should focus on old existing PR against Babel.
 
 Here are the PR will discuss during this meeting:
 - https://github.com/babel/babel/pull/6826 (@xtuc)
+- [6652](https://github.com/babel/babel/pull/6652) & [6656](https://github.com/babel/babel/pull/6656) (@Andarist)
+- https://github.com/babel/babel/pull/6963 (@Andarist)
 
 And PR in https://github.com/babel/babel/pulls?q=is%3Aopen+is%3Apr+label%3A%22Priority%3A+High%22.
 
