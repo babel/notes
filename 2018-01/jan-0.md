@@ -12,4 +12,6 @@ Here are the PR will discuss during this meeting:
 
 And PR in https://github.com/babel/babel/pulls?q=is%3Aopen+is%3Apr+label%3A%22Priority%3A+High%22.
 
+- gsoc/rgsoc?
+
 Feel free to change this list.
