@@ -27,7 +27,9 @@ https://github.com/babel/babel/issues/6766
 - `babel-register` might be a blocker because it will need to support the async flow
 - traversal will need to be asynchronous
 
-## async-to-generator
+## async-to-promise
+
+https://github.com/babel/babel/pull/7076
 
 - Would be great to have a Babel plugin
 - What appends in control structures? Big output
