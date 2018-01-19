@@ -51,4 +51,4 @@ https://github.com/babel/babel/pull/6107
 
 - We had probably too many people last year
 - We should assign our members to specific areas and mentor studient
-- Maybe 2 studients and 4 of our members to actually mentors
+- Maybe 2 students and 4 of our members to actually mentors
