@@ -1,15 +1,52 @@
 ## Babel Weekly Notes - 2018-01-01
 
-As mentioned on Slack, we should focus on old existing PR against Babel.
+## Participant
 
-Here are the PR will discuss during this meeting:
-- https://github.com/babel/babel/pull/6826 (@xtuc)
-- [6652](https://github.com/babel/babel/pull/6652) & [6656](https://github.com/babel/babel/pull/6656) (@Andarist)
-- https://github.com/babel/babel/pull/6963 (@Andarist)
-- https://github.com/babel/babel/pull/7076 (@xtuc)
+- Logan Smyth
+- Nicolo Ribaudo
+- Sven Sauleau
 
-And PR in https://github.com/babel/babel/pulls?q=is%3Aopen+is%3Apr+label%3A%22Priority%3A+High%22.
+## Turn on Slack inviter again
 
-- gsoc/rgsoc?
+## Babelrc lookup
 
-Feel free to change this list.
+https://github.com/babel/babel/issues/6766
+
+- Logan: not using the babelrc in the node_modules by default, opt-in
+- Opt-in with the overide key ?
+- Sven: idea about using babel-preset-env in the root configuration and transpile deps against the target
+
+## Plugin order
+
+- Still priority? probably not a blocker for the 7 release
+
+## Async plugins/visitors
+
+- Not for now
+- Would explose if Babel supports async for plugins or visitor
+
+## async-to-generator
+
+- Would be great to have a Babel plugin
+- What appends in control structures? Big output
+- Can it work with TDZ?
+
+## Pipeline operator
+
+- Need to transform await syntax
+
+
+## Decorator 2 
+
+https://github.com/babel/babel/pull/6107
+
+- Should we keep the two syntaxes?
+- Could people opt-in into the syntax/old syntax?
+- We can publish a single transformation (with `legacy: true`)
+- Plugin ordering issue, we could handle oursevles
+
+## gsoc/rgsoc
+
+- We had probably too many people last year
+- We should assign our members to specific areas and mentor studient
+- Maybe 2 studients and 4 of our members to actually mentors
