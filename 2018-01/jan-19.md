@@ -1,4 +1,4 @@
-## Babel Weekly Notes - 2018-01-01
+## Babel Weekly Notes - 2018-01-19
 
 ## Participant
 
