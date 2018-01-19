@@ -3,7 +3,7 @@
 ## Participant
 
 - Logan Smyth
-- Nicolo Ribaudo
+- Nicolò Ribaudo
 - Sven Sauleau
 
 ## Turn on Slack inviter again
