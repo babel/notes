@@ -23,7 +23,9 @@ https://github.com/babel/babel/issues/6766
 ## Async plugins/visitors
 
 - Not for now
-- Would explose if Babel supports async for plugins or visitor
+- Would expose if Babel supports async for plugins or visitor
+- `babel-register` might be a blocker because it will need to support the async flow
+- traversal will need to be asynchronous
 
 ## async-to-generator
 
