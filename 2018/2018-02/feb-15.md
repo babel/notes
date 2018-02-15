@@ -91,3 +91,5 @@ Discussion: https://github.com/babel/notes/issues/57
   - Do the low hanging fruit (package.json, .babelrc) changes first.
 - Blog post: http://new.babeljs.io/docs/en/next/v7-migration.html (should we split for plugin author and users?).
   - Logan: we need a guide about best practices for integration (meteor, gatsby, jest/ava, etc).
+
+For further comments check: https://github.com/babel/notes/pull/56
