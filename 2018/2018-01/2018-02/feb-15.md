@@ -7,6 +7,7 @@
 - Sven Sauleau
 - Henry Zhu
 - Brian Ng
+- Mateusz
 
 ## gsoc/rgsoc
 
@@ -31,6 +32,7 @@ https://github.com/babel/notes/issues/57
 
 - Code that we don’t maintain
 - New page until we have all existing features
+- We can collect stats about plugin usages
 
 ## Babel 7
 
@@ -45,6 +47,15 @@ https://github.com/babel/notes/issues/57
 - Some features that we need to explain more (use cases), like for overrides and .babelrc lookup.
 - Add babel.config.js?
   - We should disallow multiple configs (.babelrc and babel.config.js)
+- Transpiling node_modules with babel-registrer
+  - Merging configs is currently confusing
+  - Henry: have an experimentation babel-registry2?
+- Should land decorators transformation
+  - Add the legacy flag that runs the old transformation
+- Plugin ordering
+  - Having presets fix plugin ordering for users
+- What are we doing with the stage presets?
+  - It's better to use proposal-* plugin
 
 ## Babel 7 upgrade
 
