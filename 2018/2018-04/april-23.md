@@ -1,6 +1,9 @@
-## 4/23 Meeting
+# 4/23 Meeting
 
-Participants: Logan, Brian, Henry
+## Participants
+- Logan
+- Brian
+- Henry
 
 ## RC Release
 
