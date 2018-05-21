@@ -77,3 +77,9 @@ Conclusion: good to have, we can do it in the future.
 ## Other PRs
 - Consistent relative pathing: https://github.com/babel/babel/pull/7956
 - Interpreter AST Node: https://github.com/babel/babel/pull/7928
+
+## Etc
+- Regular Release Schedule? Need to figure out project requirements vs. arbitrary schedule?
+- Roadmap? Move to babel/notes
+- Maintainer Docs?
+- RGSoC in July
