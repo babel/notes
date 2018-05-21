@@ -62,3 +62,9 @@ PR: https://github.com/babel/babel/pull/7928
 - Can use in `@babel/node` and `@babel/register`
 - We can know what files to compile beforehand
   - Future: idea of a "project" aka multi-file awareness, maybe async pre-compile plugins?
+
+## Moving most logic into helpers
+
+- Better sharing b/t plugins
+- How do you let community plugins use/create helpers
+- Easier to optimize a helper
