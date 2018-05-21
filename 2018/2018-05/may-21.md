@@ -18,13 +18,21 @@
 - Stage 0-2 proposals are inherently unstable and may have multiple implementations so we should figure out how to handle that in Babel
 - Merging Babel/Babylon configurations might be too hard and lead to unexpected results, overriding behavior is easier to understand and works currently.
 
+---
+
+Conclusion: ignore any following plugins that already exists; also consider adding validation and possibly a `skipValidation` flag that Babel sets to true (not a blocker).
+
 ## TypeScript extension detection
 
 PR: https://github.com/babel/babel/pull/7955
 
-- Logan: Making TS aware of file extensions ([`tsconfig`](https://www.typescriptlang.org/docs/handbook/tsconfig-json.html))
+- Logan: Making TS aware of file extensions
 - Idea: do the same for Flow, based on existance of .flowconfig?
 - Philosophy: Make transforms dumb + options, presets should have own logic to decide the options (like babel-loader/preset-env with `modules: false`)
+
+---
+
+Conclusion: moving forward with the PR
 
 ## Shared data between plugins?
 
@@ -34,11 +42,12 @@ PR: https://github.com/babel/babel/pull/7878
 - Babel/core could expose the configuration and plugins could configure itself based on the config
 - Use a shared helper? Like the JSX transform
 - We can use https://github.com/babel/babel/blob/c558dedd7b5ffacf4d462177857cc031e7f4efe0/packages/babel-core/src/transformation/file/file.js#L51-L61
-- Move JSX comment logic from "Program" into "pre" step for other plugins, TS preset can read from the shared global Map
+- Idea: Run a phase before presets/plugins which order/clean/configure Babel itself based on the configuration/context/etc. Just thoughts.
+- 
+---
 
-### Idea: reconfiguration phase
+Conclusion: Move JSX comment logic from "Program" into "pre" step for other plugins, TS preset can read from the shared global Map
 
-- Run a phase before presets/plugins which order/clean/configure Babel itself based on the configuration/context/etc. Just thoughts.
 
 ## TC39 Meeting This Week
 
@@ -46,15 +55,7 @@ PR: https://github.com/babel/babel/pull/7878
 
 ## "sourceType: script" as default and auto generated file extension
 
-- Delay decision since v6 didn't have massive issues and v7 has workarounds for the issue
-
-## Consistent relative pathing
-
-PR: https://github.com/babel/babel/pull/7956
-
-## Interpreter AST Node
-
-PR: https://github.com/babel/babel/pull/7928
+Conclusion: Delay decision since v6 didn't have massive issues and v7 has workarounds for the issue
 
 ## `fileExtensions` as a first-class citizen
 
@@ -68,3 +69,11 @@ PR: https://github.com/babel/babel/pull/7928
 - Better sharing b/t plugins
 - How do you let community plugins use/create helpers
 - Easier to optimize a helper
+
+---
+
+Conclusion: good to have, we can do it in the future.
+
+## Other PRs
+- Consistent relative pathing: https://github.com/babel/babel/pull/7956
+- Interpreter AST Node: https://github.com/babel/babel/pull/7928
