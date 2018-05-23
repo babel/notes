@@ -12,7 +12,7 @@
 
 ### Babylon plugin (options)
 
-- Decorators and flow parser plugin added options
+- Decorators and flow parser plugin added options (because of multiple implementations)
 - Logan raised an issue about potential issues with ordering (https://github.com/babel/babel/issues/7984).
 - I think we agree options will be necessary in the future, but we should really determine the correct behavior regarding options/infra
 - Stage 0-2 proposals are inherently unstable and may have multiple implementations so we should figure out how to handle that in Babel
@@ -20,7 +20,9 @@
 
 ---
 
-Conclusion: ignore any following plugins that already exists; also consider adding validation and possibly a `skipValidation` flag that Babel sets to true (not a blocker).
+Conclusion: Ignore any following plugins that already exists; also consider adding validation and possibly a `skipValidation` flag that Babel sets to true (not a blocker).
+
+PR: https://github.com/babel/babel/pull/7994
 
 ## TypeScript extension detection
 
@@ -54,7 +56,7 @@ Conclusion: Move JSX comment logic from "Program" into "pre" step for other plug
 
 ## "sourceType: script" as default and auto generated file extension
 
-PR: https://github.com/babel/babel/pull/7501
+PR Closed: https://github.com/babel/babel/pull/7501
 
 Conclusion: Delay decision since v6 didn't have massive issues and v7 has workarounds for the issue. Also talking with Node, modules group, TS it seems best to wait for decisions instead of changing our default behavior.
 
@@ -72,6 +74,8 @@ PR: https://github.com/babel/babel/pull/7955
 - Better sharing between plugins
 - How do you let community plugins use/create helpers?
 - Easier to optimize a helper vs. inlined (think of extracting out JS functions).
+
+Conclusion: Just ongoing work
 
 ---
 
