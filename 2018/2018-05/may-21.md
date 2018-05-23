@@ -62,8 +62,6 @@ Conclusion: Delay decision since v6 didn't have massive issues and v7 has workar
 
 ## `fileExtensions` as a first-class citizen
 
-PR: https://github.com/babel/babel/pull/7955
-
 - Originally for TS, move to core
 - Can use in `@babel/node` and `@babel/register`
 - We can know what files to compile beforehand
