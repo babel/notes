@@ -10,7 +10,7 @@
 
 ## Notes
 
-### Babylon plugin
+### Babylon plugin (options)
 
 - Decorators and flow parser plugin added options
 - Logan raised an issue about potential issues with ordering (https://github.com/babel/babel/issues/7984).
@@ -48,27 +48,30 @@ PR: https://github.com/babel/babel/pull/7878
 
 Conclusion: Move JSX comment logic from "Program" into "pre" step for other plugins, TS preset can read from the shared global Map
 
-
 ## TC39 Meeting This Week
 
-- Henry and Justin should be there
+- Henry and Justin should be there! [Agenda](https://github.com/tc39/agendas/blob/master/2018/05.md)
 
 ## "sourceType: script" as default and auto generated file extension
+
+PR: https://github.com/babel/babel/pull/7501
 
 Conclusion: Delay decision since v6 didn't have massive issues and v7 has workarounds for the issue
 
 ## `fileExtensions` as a first-class citizen
+
+PR: https://github.com/babel/babel/pull/7955
 
 - Originally for TS, move to core
 - Can use in `@babel/node` and `@babel/register`
 - We can know what files to compile beforehand
   - Future: idea of a "project" aka multi-file awareness, maybe async pre-compile plugins?
 
-## Moving most logic into helpers
+## Moving most logic into helpers?
 
-- Better sharing b/t plugins
-- How do you let community plugins use/create helpers
-- Easier to optimize a helper
+- Better sharing between plugins
+- How do you let community plugins use/create helpers?
+- Easier to optimize a helper vs. inlined (think of extracting out JS functions).
 
 ---
 
