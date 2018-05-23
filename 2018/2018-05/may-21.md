@@ -56,7 +56,7 @@ Conclusion: Move JSX comment logic from "Program" into "pre" step for other plug
 
 PR: https://github.com/babel/babel/pull/7501
 
-Conclusion: Delay decision since v6 didn't have massive issues and v7 has workarounds for the issue
+Conclusion: Delay decision since v6 didn't have massive issues and v7 has workarounds for the issue. Also talking with Node, modules group, TS it seems best to wait for decisions instead of changing our default behavior.
 
 ## `fileExtensions` as a first-class citizen
 
