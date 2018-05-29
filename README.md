@@ -14,8 +14,6 @@ New notes are added as pull requests (watch the repo!): feel free to comment on 
 
 Most of our discussions happen in the [#development](https://babeljs.slack.com/messages/development)/[#discussion](https://babeljs.slack.com/messages/discussion) slack rooms. (Sign up at [slack.babeljs.io](http://slack.babeljs.io/))
 
-We also have an archive of the rooms using slackarchive: https://babeljs.slackarchive.io/development/
-
 ## Old Notes (2016)
 
 > When we didn't have "meetings", but just notes to discuss development.
