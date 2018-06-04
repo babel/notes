@@ -24,7 +24,7 @@
   - Action item: n/a
 
 - Don't block landing PRs with trying to figure out what to do with `babel-types` docs. We may want to re-think what a better solution to it anyway (instead of one giant long markdown file).
-  - Action item: Sven will create a new issue
+  - Action item: Sven will create a new issue (https://github.com/babel/website/issues/1680)
 
 - How do we want to handle `next`/`master` on the website? Maybe one option is to make https://babeljs.io only have tagged versioned docs and https://new.babeljs.io always represent `next`?
   - Action item: discuss further/later
