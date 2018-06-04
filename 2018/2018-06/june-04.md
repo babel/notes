@@ -17,7 +17,7 @@
 - [ ] New config guide https://github.com/babel/website/pull/1679
 
 - READMEs in individual packages will just contain install instructions and a link to the website. Sven created a script to handle this.
-  - Add a link to the corresponding package/area label.
+  - Action item: Add a link to the corresponding package/area label.
   - Idea: babel-bot could auto label based on folder changed (need hueristic)?
 
 - Consider adding individual package CHANGELOGs and aggregate/summarize them up on main Babel's CHANGELOG?
