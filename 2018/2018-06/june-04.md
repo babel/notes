@@ -12,8 +12,8 @@
 ### Moving Docs to Website Repo
 
 - [x] Sven started initial PRs to merge: https://github.com/babel/website/pull/1677, https://github.com/babel/babel/pull/8108, https://github.com/babel/website/pull/1678
+- [x] Review a usage guide PR: https://github.com/babel/website/pull/1588
 - [ ] `babel-types` docs are generated automatically so need to figure how to document types.
-- [ ] Review a usage guide PR: https://github.com/babel/website/pull/1588
 - [ ] New config guide https://github.com/babel/website/pull/1679
 
 - READMEs in individual packages will just contain install instructions and a link to the website. Sven created a script to handle this.
