@@ -25,3 +25,4 @@
 - [ ] Henry: Outlined the release post
 - [ ] Team: do a run through of existing PRs if anything was missed
   - TODO: Schedule a time for the team to run through everything, shoot for next Monday since holidays.
+- RGSoC kickoff/starting today!
