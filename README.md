@@ -8,7 +8,7 @@ New notes are added as pull requests (watch the repo!): feel free to comment on 
 
 > To know about our team members, please check out our [team page](https://babeljs.io/team)!
 
-## Latest Notes: https://github.com/babel/notes/blob/master/2018/2018-06/june-04.md
+## Latest Notes: https://github.com/babel/notes/blob/master/2018/2018-07/july-02.md
 
 ## Communication
 
