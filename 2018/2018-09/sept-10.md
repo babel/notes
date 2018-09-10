@@ -1,4 +1,4 @@
-# 09-10 meeting
+# 09/10 meeting
 
 We [did it](https://twitter.com/left_pad/status/1034204330352500736), 🎉! 7.0 is out.
 
