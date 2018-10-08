@@ -5,13 +5,18 @@
 - Sven
 - Henry
 
+## News
+
+- Sven speaking at [StrasbourgJS](https://www.meetup.com/fr-FR/StrasbourgJS/events/254475482/) today!
+- Henry will be at [Hacktoberfest Night](https://www.eventbrite.com/e/hacktoberfest-night-dev-flatiron-school-nyc-tickets-50536426813) in NYC on 10/10
+- Henry will be in SF for [Github Universe](https://githubuniverse.com/) Oct 15-19
+
 ## Agenda
 
 - [x] Figure out a good time for the core meeting?
 - [x] Should we run a community meeting? (office hours)
 - [x] Similarly, a Babel meetup?
 - [x] Podcast? https://twitter.com/left_pad/status/1046045638612406274
-
 
 ## Core Meeting
 
