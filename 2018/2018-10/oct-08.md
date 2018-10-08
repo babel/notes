@@ -47,7 +47,21 @@ Goals: in-person seems more effective to bring people in. Don't just be a meetup
 
 ## Podcast!
 
+From https://twitter.com/left_pad/status/1046045638612406274
+
 - Goals: similar to the in-person meetup.
-  - Get more contributors into Babel/open source, help against fears of getting involved, potential contributors think everything is done while we believe everything needs help
 - Could be interesting to interview multiple kinds of people (not just well-known): whether they are in a different field, new to coding, in another language, or on TC39?
 - Talk about our own struggles, day to day development (e.g. why babel 7 took so long, why implementing proposals are hard)
+
+## Meta
+
+How can we bring up new maintainers?
+
+- Can we help against fears of getting involved?
+  - Lack of self-confidence in undertaking something new, and overestimate the skill of existing maintainers?
+  - Potential contributors think everything is "done", while we might believe that everything needs help 😂
+  - A desire to do "tasks" rather than have the freedom to explore new ideas or work on things that no one else is thinking about
+  - Too much focus on the "code", what about documentation, education, infrastructure, ease of use, speed, etc. What about different mediums (blog post, social media, art, video, podcast, etc)? What about support (issues, twitter, slack)?
+- Onboarding and confidence
+  - Even after adding someone as a contributor, they may not feel comfortable pressing the merge button
+  - Need better release/maintainer docs, knowing what we even do should make it easier to optimize/change for the better.
