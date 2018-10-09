@@ -8,8 +8,6 @@ New notes are added as pull requests (watch the repo!): feel free to comment on 
 
 > To know about our team members, please check out our [team page](https://babeljs.io/team)!
 
-## Latest Notes: https://github.com/babel/notes/blob/8c2b6c972c82867de004f85febd39bef42232308/2018/2018-09/sept-24.md
-
 ## Communication
 
 Most of our discussions happen in the [#development](https://babeljs.slack.com/messages/development)/[#discussion](https://babeljs.slack.com/messages/discussion) slack rooms. (Sign up at [slack.babeljs.io](http://slack.babeljs.io/))
