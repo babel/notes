@@ -1,6 +1,6 @@
 # 11/05 Meeting
 
-## Attending
+## [Attending](https://babeljs.io/team)
 
 - Logan
 - Sven
@@ -25,7 +25,7 @@
 
 ## Class merge PR
 
-Merging tomorrow.
+Merging tomorrow, Logan will try to review.
 
 ## Config PR
 
@@ -33,13 +33,13 @@ Could be considered breaking, but it's more of a bug if anything. Merged: https:
 
 ## Contributor events
 
-- Some peoples emailed us to run events
+- Some people emailed us to help run events, Henry will chat with HackIllinois and maybe other schools?
+- Henry: mentioned last meeting but I'd like to make our own local meetup to contribute.
 - Sven to reach out to http://www.opensourceschool.fr
 
 ## In-person meeting
 
-- Sven to try to setup the scheduling.
-- Ask Gatsby? Vue?
+- Sven to try to setup the scheduling. Ask Gatsby/Vue or other oss projects on how they do it?
 - Mostly likely, in the U.S.
 
 ## Foundation
