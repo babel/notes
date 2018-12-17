@@ -26,7 +26,7 @@ AI: Nicolò and Logan publish a v6.
 
 ## Class features: next steps
 
-https://github.com/babel/babel/pull/9166
+Take a look at https://github.com/babel/babel/pull/9166 (it's not about how decorators work, it's about how to make the runtime helper pluggable).
 
 > some spec'ed breaking changes incomming
 
