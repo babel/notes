@@ -1,6 +1,9 @@
 # Babel Notes
 
-To setup, we make a [PR on babel/notes](https://github.com/babel/notes/pulls?q=is%3Apr+is%3Aclosed) and then setup a doodle for availability each week (and we make a Slack call or Google Hangouts for the chat). Currently, we usually do video chat on Mondays at 10:00 PM EST.
+## Meetings
+
+We have online meetings every two weeks, using Google Hangouts. Currently, we usually meet on Wednesdays at 20:30 UTC.
+A few days before any meeting meeting, we create an issue in [`babel/notes`](https://github.com/babel/notes/issues?utf8=%E2%9C%93&q=is%3Aissue+sort%3Aupdated-desc+label%3Ameeting+) containing the agenda.
 
 If we don't meet, I usually post a summary of what's been going on (notable issues/PRs, etc).
 
